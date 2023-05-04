@@ -1,0 +1,74 @@
+.container {
+	@include container();
+	
+	padding-top: 50px;
+	padding-bottom: 50px;
+
+	@include mobile {
+		padding-top: 40px;
+		padding-bottom: 40px;
+	}
+}
+
+.title {
+	@include title();
+
+	text-align: center;
+	margin-bottom: 50px;
+	color: $baseBlack;
+	font-size: 30px;
+	
+	@include mobile {
+		font-size: 26px;
+		margin-bottom: 40px;
+	}
+}
+
+.toursContainer {
+	display: grid;
+	grid-template-columns: 1fr 1fr;
+	gap: 10px 10px;
+
+	@include tablet {
+		display: flex;
+		flex-wrap: wrap;
+	}
+
+	@include mobile {
+		display: flex;
+		flex-wrap: wrap;
+	}
+}
+
+.tabTitle {
+	@include title();
+	
+	color: $baseBlack;
+	margin-bottom: 20px;
+	font-size: 25px;
+	
+	@include mobile {
+		font-size: 22px;
+	}
+}
+
+.tab:not(:nth-child(1)) {
+	margin-top: 40px;
+}
+
+.more {
+	font-size: 20px;
+	margin: 20px auto 0 auto;
+	display: flex;
+	align-items: center;
+	column-gap: 7px;
+	padding: 0;
+
+	&Arrow {
+		transform: translateY(1px);
+	}
+
+	@include mobile {
+		font-size: 18px;
+	}
+}

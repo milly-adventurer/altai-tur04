@@ -1,0 +1,20 @@
+@font-face {
+	font-family: 'Inter';
+	src: url('/static/assets/fonts/inter/inter-v11-latin_cyrillic-400.woff2') format('woff2');
+	font-weight: $fontRegular;
+	font-display: swap;
+}
+
+@font-face {
+	font-family: 'Inter';
+	src: url('/static/assets/fonts/inter/inter-v11-latin_cyrillic-500.woff2') format('woff2');
+	font-weight: $fontMedium;
+	font-display: swap;
+}
+
+@font-face {
+	font-family: 'Inter';
+	src: url('/static/assets/fonts/inter/inter-v11-latin_cyrillic-700.woff2') format('woff2');
+	font-weight: $fontBold;
+	font-display: swap;
+}

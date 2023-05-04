@@ -1,0 +1,97 @@
+.container {
+	@include container();
+	padding-top: 60px;
+	padding-bottom: 30px;
+}
+
+.title {
+	@include title();
+	
+	color: $baseBlack;
+	margin-bottom: 30px;
+}
+
+.dates {
+	display: flex;
+	flex-wrap: wrap;
+	gap: 15px;
+}
+
+.popup {
+	width: fit-content;
+	
+	@include mobile {
+		width: calc(100% - 20px);
+	}
+}
+
+.popupContent {
+	@include container();
+
+	display: flex;
+	flex-direction: column;
+	color: $baseBlack;
+	padding: 30px 0;
+
+	@include mobile {
+		padding: 0;
+	}
+}
+
+.popupTitle {
+	@include title();
+
+	font-size: 32px;
+	font-weight: $fontBold;
+	margin-bottom: 10px;
+	max-width: 600px;
+
+	@include mobile {
+		font-size: 25px;
+	}
+}
+
+.popupDescription {
+	font-size: 20px;
+	margin-bottom: 20px;
+	max-width: 700px;
+
+	@include mobile {
+		font-size: 18px;
+	}
+}
+
+.links {
+	display: flex;
+	flex-direction: column;
+	row-gap: 15px;
+	width: 100%;
+	align-items: center;
+}
+
+.link {
+	width: 500px;
+	font-size: 23px;
+	display: grid;
+	grid-template-columns: min-content 1fr;
+	font-weight: $fontRegular;
+
+	@include mobile {
+		display: block;
+		width: 100%;
+	}
+}
+
+.socialImg {
+	width: 25px;
+	height: auto;
+	
+	@include mobile {
+		display: none;
+	}
+}
+
+.button:hover {
+	background-color: $brandColor;
+	border-color: $brandColor;
+}

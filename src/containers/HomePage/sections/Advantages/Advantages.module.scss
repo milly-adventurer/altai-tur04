@@ -1,0 +1,83 @@
+.container {
+	padding: 40px 0 80px 0;
+}
+
+.pagination {
+	bottom: -30px !important;
+}
+
+.paginationButton {
+	margin: 0 8px !important;
+	
+	&[aria-selected="true"] {
+		background-color: $baseBlack !important;
+	}
+}
+
+.slide {
+	display: flex;
+	flex-direction: column;
+}
+
+.title {
+	@include title();
+	
+	color: $baseBlack;
+	margin-bottom: 40px;
+	text-align: center;
+	font-size: 30px;
+
+	@include mobile {
+		font-size: 25px;
+	}
+}
+
+.image {
+	border-radius: $borderRadius $borderRadius 0 0;
+	background-size: cover !important;
+	background-repeat: no-repeat !important;
+	padding-top: 50%;
+
+	@include mobile {
+		background-position: center;;
+	}
+}
+
+.text {
+	min-height: 200px;
+	height: 250px;
+	background-color: rgba(201, 244, 137, 15%);
+	color: $baseBlack;
+	display: flex;
+	align-items: center;
+	flex-direction: column;
+	padding: 50px 70px;
+	text-align: center;
+	border-radius: 0 0 $borderRadius $borderRadius;
+	
+	@include mobile {
+		padding: 20px 20px;
+		min-height: unset;
+		height: unset;
+	}
+}
+
+.slideTitle {
+	font-size: 26px;
+	font-weight: $fontMedium;
+	margin-bottom: 20px;
+	max-width: 700px;
+
+	@include mobile {
+		font-size: 20px;
+	}
+}
+
+.slideDescription {
+	font-size: 20px;
+	font-weight: $fontRegular;
+
+	@include mobile {
+		font-size: 15px;
+	}
+}

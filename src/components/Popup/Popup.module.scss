@@ -1,0 +1,46 @@
+.modal {
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+	width: 1160px; // 40px padding left, right
+	max-height: 90vh;
+	overflow-y: auto;
+	border-radius: 10px;
+
+	@include tablet {
+		width: calc(100% - 40px);
+	}
+
+	@include mobile {
+		width: calc(100% - 20px);
+	}
+}
+
+.content {
+	background-color: $baseWhite;
+	padding: 50px;
+	width: 100%;
+	position: relative;
+
+	@include mobile {
+		padding: 50px 20px 20px 20px;
+	}
+}
+
+.close {
+	position: absolute;
+	top: 20px;
+	right: 20px;
+	color: black;
+	width: 25px;
+	height: auto;
+	cursor: pointer;
+}
+
+.overlay {
+	position: fixed;
+	inset: 0;
+	background-color: rgba(0, 0, 0, 0.4);
+	z-index: 999;
+}

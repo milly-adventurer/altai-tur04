@@ -1,0 +1,1 @@
+export { HomePage as default, getStaticProps } from '@/containers/HomePage/HomePage';

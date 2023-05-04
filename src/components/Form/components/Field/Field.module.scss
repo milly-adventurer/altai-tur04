@@ -1,0 +1,11 @@
+.input {
+	padding: 16px 20px;
+	width: 100%;
+	font-size: 20px;
+	border: 1px solid #848484;
+	border-radius: $borderRadius;
+
+	@include mobile {
+		padding: 16px 20px;
+	}
+}

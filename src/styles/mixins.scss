@@ -1,0 +1,58 @@
+@mixin mobile {
+	@media (max-width: $tablet) {
+		@content;
+	}
+}
+
+@mixin tablet {
+	@media (min-width: $tablet) and (max-width: $desktop) {
+		@content;
+	}
+}
+
+@mixin desktop {
+	@media (min-width: $desktop) {
+		@content;
+	}
+}
+
+@mixin device {
+	@media (max-width: $desktop) {
+		@content;
+	}
+}
+
+@mixin container {
+  width: 100%;
+  margin: 0 auto;
+  max-width: 1200px;
+  padding-left: 20px;
+	padding-right: 20px;
+	
+	@include tablet {
+		margin: 0;
+		max-width: unset;
+		padding-left: 40px;
+		padding-right: 40px;
+	}
+
+  @include mobile {
+    margin: 0;
+    max-width: unset;
+		padding-left: 20px;
+		padding-right: 20px;
+  }
+}
+
+@mixin title {
+	font-weight: $fontRegular;
+	line-height: 1.2;
+	letter-spacing: -0.5px;
+	display: block;
+}
+
+@mixin titleBold {
+	@include title();
+	
+	font-weight: $fontBold;
+}

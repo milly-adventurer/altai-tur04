@@ -1,0 +1,70 @@
+.container {
+	background-size: cover !important;
+	background-repeat: no-repeat !important;
+	
+	@include mobile {
+		background-position: center;;
+	}
+}
+
+.content {
+	@include container();
+	
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	color: $baseWhite;
+	padding: 60px 0;
+	text-align: center;
+}
+
+.title {
+	@include title();
+	
+	font-size: 32px;
+	font-weight: $fontBold;
+	margin-bottom: 10px;
+	max-width: 600px;
+	
+	@include mobile {
+		font-size: 25px;
+	}
+}
+
+.description {
+	font-size: 20px;
+	margin-bottom: 20px;
+	max-width: 700px;
+
+	@include mobile {
+		font-size: 18px;
+	}
+}
+
+.links {
+	display: flex;
+	flex-direction: column;
+	row-gap: 15px;
+	width: 100%;
+	align-items: center;
+}
+
+.link {
+	width: 500px;
+	font-size: 23px;
+	display: grid;
+	grid-template-columns: min-content 1fr;
+	font-weight: $fontRegular;
+
+	@include mobile {
+		width: 100%;
+		font-size: 18px;
+		padding-left: 20px;
+		padding-right: 20px
+	}
+}
+
+.socialImg {
+	width: 25px;
+	height: auto;
+}

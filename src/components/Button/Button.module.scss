@@ -1,0 +1,113 @@
+@mixin buttonLg {
+	border-radius: $borderRadius;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	padding: 18px 50px;
+	font-weight: $fontRegular;
+	font-size: 18px;
+	border: none;
+	cursor: pointer;
+	
+	@include mobile {
+		padding: 18px 40px;
+	}
+}
+
+@mixin brand {
+	background: $brandColor;
+	box-shadow: 1px 1px 11px rgba(0, 0, 0, 0.2);
+	color: $baseWhite;
+	
+	&:hover {
+		background: $brandHoverColor;
+	}
+}
+
+@mixin outline_white {
+	border: 1px solid $baseWhite;
+	color: $baseWhite;
+
+	&:hover {
+		background: $baseWhite;
+		color: $baseBlack;
+	}
+}
+
+@mixin outline_black {
+	border: 1px solid $baseBlack;
+	color: $baseBlack;
+
+	&:hover {
+		background: $baseBlack;
+		color: $baseWhite;
+	}
+}
+
+@mixin link {
+	color: $brandColor;
+	font-weight: $fontMedium;
+
+	&:hover {
+		color: $brandHoverColor;
+	}
+}
+
+.button {
+	@include buttonLg();
+	
+	width: fit-content;
+	text-align: center;
+}
+
+.brand {
+	@include brand();
+}
+
+.outline_white {
+	@include outline_white();
+}
+
+.outline_black {
+	@include outline_black();
+}
+
+.link {
+	@include link();
+	
+	@include mobile {
+		padding: 0;
+	}
+}
+
+.other {
+	@include buttonLg();
+
+	padding: 16px 30px;
+	color: $baseWhite;
+	transition: all 0.3s;
+	
+	&:hover {
+		transform: scale(1.02);
+	}
+
+	&_whatsapp {
+		background-color: #54cd6c;
+	}
+
+	&_telegram {
+		background-color: #229ED9;
+	}
+
+	&_vk {
+		background-color: #E55BC7FF;
+	}
+	
+	&_call {
+		background-color: #8653e0
+	}
+	
+	&_book {
+		background-color: #D68942;
+	}
+}

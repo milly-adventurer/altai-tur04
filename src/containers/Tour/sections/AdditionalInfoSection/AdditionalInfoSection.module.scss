@@ -1,0 +1,166 @@
+.container {
+	@include container();
+	
+	padding-top: 60px;
+	padding-bottom: 60px;
+}
+
+.title {
+	@include title();
+
+	font-size: 35px;
+	margin-bottom: 30px;
+	text-align: center;
+	color: $baseBlack;
+
+	@include mobile {
+		font-size: 30px;
+	}
+}
+
+.grid {
+	display: grid;
+	grid-template: repeat(2, min-content) / repeat(2, 1fr);
+	gap: 15px;
+	
+	@include mobile {
+		grid-template: unset;
+	}
+}
+
+.card {
+	aspect-ratio: 1.2 / 1;
+	border-radius: $borderRadius;
+	background-size: cover !important;
+	background-repeat: no-repeat;
+
+	display: flex;
+	align-items: center;
+	justify-content: center;
+
+	@include mobile {
+		background-position: center;;
+	}
+}
+
+.titleBlock {
+	margin-bottom: 20px;
+}
+
+.priceBlockC {
+	margin-top: 5px;
+	
+	& .pricesWrapper {
+		align-items: baseline;
+	}
+	
+	& .price {
+		font-size: 20px;
+
+		@include mobile {
+			font-size: 18px;
+		}
+	}
+	
+	& .priceSmall {
+		font-size: 15px;
+		margin-left: 10px;
+
+		@include mobile {
+			font-size: 13px;
+		}
+	}
+}
+
+
+.cardTitle {
+	@include title();
+	
+	font-size: 30px;
+	text-align: left;
+	font-weight: $fontMedium;
+	
+	@include mobile {
+		font-size: 23px;
+	}
+}
+
+.openButton {
+	width: 300px;
+	
+	@include mobile {
+		width: 100%;
+	}
+}
+
+.popup {
+	max-width: 800px;
+}
+
+.popupContent {
+	color: $baseBlack;
+}
+
+.popupTitle {
+	@include title();
+	
+	font-size: 30px;
+	margin-bottom: 20px;
+}
+
+.popupDescription {
+	margin-bottom: 20px;
+	
+	& b {
+		margin-bottom: 10px;
+		display: block;
+	}
+
+	& p {
+		margin-bottom: 10px;
+	}
+}
+
+.priceBlock {
+	display: flex;
+	align-items: center;
+	column-gap: 10px;
+	margin-bottom: 10px;
+}
+
+.pricesWrapper {
+	display: flex;
+	flex-wrap: wrap;
+	align-items: center;
+}
+
+.price {
+	font-size: 23px;
+	font-weight: $fontMedium;
+
+	@include mobile {
+		font-size: 20px;
+	}
+}
+
+.wallet {
+	width: 28px;
+}
+
+.priceSmall {
+	margin-left: 15px;
+	position: relative;
+	width: fit-content;
+	font-size: 16px;
+
+	&::before {
+		content: '';
+		position: absolute;
+		top: 10px;
+		left: 0;
+		background-color: red;
+		width: 100%;
+		height: 1px;
+		transform: rotate(7deg);
+	}
+}

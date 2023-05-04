@@ -1,0 +1,45 @@
+.container {
+	padding: 90px 0;
+	color: $baseBlack;
+	
+	@include container();
+}
+
+.title {
+	@include title();
+	
+	font-size: 30px;
+	margin-bottom: 40px;
+	
+	@include mobile {
+		font-size: 28px;
+		margin-bottom: 35px;
+	}
+}
+
+.tabButtons {
+	display: flex;
+	flex-wrap: wrap;
+	gap: 10px;
+	margin-bottom: 30px;
+}
+
+.tabButton {
+	background-color: #eeeeee;
+	color: #656565;
+	font-size: 18px;
+	padding: 14px 23px;
+	border-radius: 8px;
+	cursor: pointer;
+	font-weight: $fontMedium;
+	
+	&:hover {
+		background-color: $brandHoverColor;
+		color: $baseWhite;
+	}
+	
+	&Active {
+		background-color: $brandColor;
+		color: $baseWhite;
+	}
+}

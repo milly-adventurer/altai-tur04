@@ -1,0 +1,94 @@
+.container {
+	@include container();
+	padding-top: 50px;
+	padding-bottom: 50px;
+}
+
+.title {
+	@include title();
+	
+	font-size: 32px;
+	color: $baseBlack;
+	text-align: center;
+	margin-bottom: 50px;
+	
+	@include mobile {
+		margin-bottom: 30px;
+	}
+}
+
+.slider {
+	overflow: hidden;
+	transition: height 0.3s;
+	//height: fit-content;
+}
+
+.slide {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	color: $baseBlack;
+	padding: 20px 60px;
+	text-align: center;
+
+	@include mobile {
+		padding: 20px 20px;
+	}
+}
+
+.avatar {
+	width: 40px;
+	height: auto;
+	border-radius: 50%;
+	margin-bottom: 5px;
+}
+
+.name {
+	font-size: 15px;
+	font-weight: $fontMedium;
+	margin-bottom: 10px;
+}
+
+.stars {
+	width: 70px;
+	height: auto;
+	margin-bottom: 5px;
+}
+
+.date {
+	font-size: 12px;
+	color: $inactiveGrayColor;
+	margin-bottom: 20px;
+}
+
+.reviewTitle {
+	@include title();
+	
+	font-weight: $fontMedium;
+	font-size: 20px;
+	margin-bottom: 10px;
+}
+
+.description {
+	font-weight: $fontRegular;
+	margin-bottom: 20px;
+	line-height: 1.4;
+	font-size: 19px;
+	
+	@include mobile {
+		font-size: 16px;
+	}
+}
+
+.logo {
+	width: 100px;
+	height: auto;
+}
+
+.postedOn {
+	display: flex;
+	flex-direction: column;
+	row-gap: 2px;
+	align-items: center;
+	font-size: 10px;
+}

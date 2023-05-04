@@ -1,0 +1,30 @@
+.container {
+	@include container();
+	padding-top: 50px;
+	padding-bottom: 50px;
+}
+
+.title {
+	@include title();
+	color: $baseBlack;
+
+	font-size: 30px;
+	margin-bottom: 40px;
+	text-align: center;
+
+	@include mobile {
+		font-size: 28px;
+		margin-bottom: 35px;
+	}
+}
+
+.members {
+	display: grid;
+	grid-template: min-content min-content / 1fr 1fr;
+	column-gap: 20px;
+	row-gap: 30px;
+	
+	@include mobile {
+		grid-template: unset;
+	}
+}

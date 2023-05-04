@@ -1,0 +1,91 @@
+.popupContent {
+	color: $baseBlack;
+	padding: 0;
+}
+
+.popup {
+	max-width: 600px;
+}
+
+.textPart {
+	padding: 50px;
+
+	@include mobile {
+		padding: 50px 20px 40px 20px;
+	}
+}
+
+.form {
+	display: flex;
+	flex-direction: column;
+	row-gap: 10px;
+}
+
+.input {
+	padding: 16px 20px;
+	width: 100%;
+	font-size: 20px;
+	border: 1px solid #848484;
+	border-radius: $borderRadius;
+
+	@include mobile {
+		padding: 16px 20px;
+	}
+}
+
+.button {
+	width: 100% !important;
+}
+
+.popupSmall {
+	max-width: 800px;
+}
+
+.title {
+	@include title();
+	
+	font-size: 30px;
+	font-weight: $fontMedium;
+	margin-bottom: 10px;
+	
+	@include mobile {
+		font-size: 22px;
+	}
+}
+
+.description {
+	font-size: 18px;
+	max-width: 800px;
+	margin-bottom: 30px;
+
+	@include mobile {
+		font-size: 16px;
+	}
+}
+
+.image {
+	padding-top: 35%;
+	background-size: cover !important;
+	background-repeat: no-repeat !important;
+
+	@include mobile {
+		display: none;
+	}
+}
+
+.success { 
+	font-size: 25px;
+
+	@include mobile {
+		font-size: 20px;
+	}
+}
+
+.conf {
+	font-size: 14px;
+	color: #5d5d5d;
+
+	& a {
+		color: #1774be;
+	}
+}

@@ -1,0 +1,77 @@
+.container {
+	height: 100vh;
+	display: grid;
+	grid-template-rows: min-content 1fr;
+}
+
+.contentContainer {
+	display: grid;
+	align-self: center;
+
+	@include container();
+}
+
+.title {
+	@include title();
+
+	max-width: 500px;
+	font-size: 32px;
+	margin-bottom: 10px;
+
+	@include mobile {
+		font-size: 28px;
+	}
+
+	&Bold {
+		@include titleBold();
+	}
+}
+
+.description {
+	margin-bottom: 30px;
+	max-width: 600px;
+	font-size: 18px;
+}
+
+.buttonsWrapper {
+	width: fit-content;
+}
+
+.button {
+	margin-bottom: 10px;
+}
+
+.socials {
+	display: flex;
+	column-gap: 10px;
+}
+
+.socialButton {
+	width: 50%;
+}
+
+.withDiscountWrapper {
+	height: calc(100vh + 130px);
+}
+
+.discountContainer {
+	@include container();
+	padding-top: 30px;
+	padding-bottom: 30px;
+}
+
+.discountBanner {
+	width: 100%;
+	padding: 17px 0;
+	justify-content: center;
+	align-items: center;
+	border: 2px solid $brandColor;
+	color: $baseBlack;
+	border-radius: $borderRadius;
+	display: flex;
+	font-size: 22px;
+	
+	@include mobile {
+		font-size: 16px;
+	}
+}
