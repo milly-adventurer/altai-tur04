@@ -1,4 +1,4 @@
-import React, { useEffect } from 'react';
+import React from 'react';
 import cmsAPI from "@/api/cms";
 import { CMSHomePage, CMSTourPrice, CmsUniversalForm } from "@/models/cms";
 import CMSRenderer from "@/components/CMSRenderer/CMSRenderer";
@@ -7,8 +7,6 @@ import axios, { AxiosResponse } from "axios";
 import { TripadvisorResponse } from "@/models/tripadvisor";
 import Head from "next/head";
 import FormsContextProvider from "@/context/FormsContext";
-import SectionWithHeader from '@/components/SectionWithHeader/SectionWithHeader';
-import cms from '@/api/cms';
 
 interface HomePageProps {
   homePageData: CMSHomePage;
@@ -21,31 +19,6 @@ interface HomePageProps {
 
 export const HomePage = ({ homePageData, CMSExcursionPrices, CMSTourPrices, reviewsData, CmsProgramForm, CmsTourPriceForm }: HomePageProps) => {
 	const { sections, seo_title, seo_description } = homePageData;
-	
-	useEffect(() => {
-		(async () => {
-			// const getCallbackForm = await cmsAPI.getCallbackForm();
-			// const getBookForm = await cmsAPI.getBookForm();
-			// const getProgramForm = await cmsAPI.getProgramForm();
-			// const getTourPriceForm = await cmsAPI.getTourPriceForm();
-			// const getFooter = await cmsAPI.getFooter();
-			// const getBookOptions = await cmsAPI.getBookOptions();
-			// const getAdditionalInfoBookOptions = await cmsAPI.getAdditionalInfoBookOptions();
-			// const getTourNavigation = await cmsAPI.getTourNavigation();
-			// const getExcursionNavigation = await cmsAPI.getExcursionNavigation();
-			// const getToursIds = await cmsAPI.getToursIds();
-			// const getExcursionsIds = await cmsAPI.getExcursionsIds();
-			// const getToursPrices = await cmsAPI.getToursPrices();
-			// const getExcursionsPrices = await cmsAPI.getExcursionsPrices();
-			// todo
-			// const getTourPage = await cmsAPI.getTourPage();
-			// const getExcursionPage = await cmsAPI.getExcursionPage();
-			// const getCommonTranslations = await cmsAPI.getCommonTranslations();
-			// const getTourPage = await cmsAPI.getTourPage('Классика');
-			const ad = await cmsAPI.as();
-			console.log(ad, 'footer')
-		})();
-	}, [])
 
 	let url = process.browser && window?.location.href || '';
 
