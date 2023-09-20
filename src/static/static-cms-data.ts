@@ -1848,7 +1848,7 @@ export const homePage = {
 						"title": "IMG-2922!",
 						"description": "",
 						"file": {
-							"url": "//images.ctfassets.net/1vay05tm7yg4/3eIl7xHf6hetE2Il2MANQf/0f38c4e44d27d54db440bde22787db3b/______.png",
+							"url": "//images.ctfassets.net/1vay05tm7yg4/3eIl7xHf6hetE2Il2MANQf/5a76a01fcbfc1d2edebcddcdb0970054/______.png",
 							"details": {
 								"size": 1415482,
 								"image": {
@@ -24839,7 +24839,7 @@ export const allTours = [
 					"title": "IMG-2922",
 					"description": "",
 					"file": {
-						"url": "//images.ctfassets.net/1vay05tm7yg4/14pfXkogNX0fw4WL0s5eaX/59c7358abb2562d31a425e42bea48b99/_____1.png",
+						"url": "//images.ctfassets.net/1vay05tm7yg4/3eIl7xHf6hetE2Il2MANQf/5a76a01fcbfc1d2edebcddcdb0970054/______.png",
 						"details": {
 							"size": 1982269,
 							"image": {
@@ -25381,7 +25381,7 @@ export const allTours = [
 							"title": "IMG-5808",
 							"description": "",
 							"file": {
-								"url": "//images.ctfassets.net/1vay05tm7yg4/14pfXkogNX0fw4WL0s5eaX/59c7358abb2562d31a425e42bea48b99/_____1.png",
+								"url": "//images.ctfassets.net/1vay05tm7yg4/14pfXkogNX0fw4WL0s5eaX/590ea52ff754e0df19e0bb004f731403/_____1.png",
 								"details": {
 									"size": 2237028,
 									"image": {
@@ -25422,7 +25422,7 @@ export const allTours = [
 							"title": "IMG-3213",
 							"description": "",
 							"file": {
-								"url": "//images.ctfassets.net/1vay05tm7yg4/14pfXkogNX0fw4WL0s5eaX/59c7358abb2562d31a425e42bea48b99/_____1.png",
+								"url": "//images.ctfassets.net/1vay05tm7yg4/14pfXkogNX0fw4WL0s5eaX/590ea52ff754e0df19e0bb004f731403/_____1.png",
 								"details": {
 									"size": 1719337,
 									"image": {
@@ -25552,7 +25552,7 @@ export const allTours = [
 							"title": "IMG-4417",
 							"description": "",
 							"file": {
-								"url": "//images.ctfassets.net/1vay05tm7yg4/1DJpQ95gvuUGXQlJ8LSWcl/e685e5028ed9c83cebe6772f392e85dc/_____1-1.png",
+								"url": "//images.ctfassets.net/1vay05tm7yg4/1DJpQ95gvuUGXQlJ8LSWcl/6486dce72d70f6d43df20e6e92332835/_____2.png",
 								"details": {
 									"size": 2123651,
 									"image": {
@@ -25593,7 +25593,7 @@ export const allTours = [
 							"title": "IMG-4415",
 							"description": "",
 							"file": {
-								"url": "//images.ctfassets.net/1vay05tm7yg4/5MqVo1DmCIiKLSbwkOvptr/18e7600be8931a60f30c6cbeb9c94539/_____1-2.png",
+								"url": "//images.ctfassets.net/1vay05tm7yg4/1DJpQ95gvuUGXQlJ8LSWcl/6486dce72d70f6d43df20e6e92332835/_____2.png",
 								"details": {
 									"size": 2628025,
 									"image": {
@@ -25723,7 +25723,7 @@ export const allTours = [
 							"title": "IMG-0461",
 							"description": "",
 							"file": {
-								"url": "//images.ctfassets.net/1vay05tm7yg4/1idLl1Rr0F0gH8Snz8tW65/d0b564da56640aba37a5f324875dfaf2/_____3.png",
+								"url": "//images.ctfassets.net/1vay05tm7yg4/1idLl1Rr0F0gH8Snz8tW65/eb3f40952dc90d0c649471f178e1dcb2/_____3.png",
 								"details": {
 									"size": 2222222,
 									"image": {
@@ -25764,7 +25764,7 @@ export const allTours = [
 							"title": "IMG-5691-(1)",
 							"description": "",
 							"file": {
-								"url": "//images.ctfassets.net/1vay05tm7yg4/1idLl1Rr0F0gH8Snz8tW65/d0b564da56640aba37a5f324875dfaf2/_____3.png",
+								"url": "//images.ctfassets.net/1vay05tm7yg4/1idLl1Rr0F0gH8Snz8tW65/eb3f40952dc90d0c649471f178e1dcb2/_____3.png",
 								"details": {
 									"size": 1606258,
 									"image": {
@@ -25882,7 +25882,7 @@ export const allTours = [
 							"title": "IMG-5654",
 							"description": "",
 							"file": {
-								"url": "//images.ctfassets.net/1vay05tm7yg4/3cZH7NLrRfNhx1rV8FzO9L/46bc483fbcd5e44181209928e43d9f89/_____4.png",
+								"url": "//images.ctfassets.net/1vay05tm7yg4/3cZH7NLrRfNhx1rV8FzO9L/555604067e495d253e3c2ab547b273bb/_____4.png",
 								"details": {
 									"size": 1250395,
 									"image": {
@@ -25923,7 +25923,7 @@ export const allTours = [
 							"title": "2023-01-18 00002",
 							"description": "",
 							"file": {
-								"url": "//images.ctfassets.net/1vay05tm7yg4/3cZH7NLrRfNhx1rV8FzO9L/46bc483fbcd5e44181209928e43d9f89/_____4.png",
+								"url": "//images.ctfassets.net/1vay05tm7yg4/3cZH7NLrRfNhx1rV8FzO9L/555604067e495d253e3c2ab547b273bb/_____4.png",
 								"details": {
 									"size": 149245,
 									"image": {
@@ -26190,7 +26190,48 @@ export const allTours = [
 						"title": "IMG-9972",
 						"description": "",
 						"file": {
-							"url": "//images.ctfassets.net/1vay05tm7yg4/6sSX3Y6if84N1xrRBUW5f0/125542b5a95a30a2000b4a84314c2b0d/__________.png",
+							"url": "//images.ctfassets.net/1vay05tm7yg4/24Q71L3SERjBmdbpwL5jzP/9a59ca78bf9ec551fcd46ab25d5d0f89/____1.png",
+							"details": {
+								"size": 1164664,
+								"image": {
+									"width": 1920,
+									"height": 1080
+								}
+							},
+							"fileName": "IMG-9972.jpg",
+							"contentType": "image/jpeg"
+						},
+						"metadata": {
+							"tags": []
+						},
+						"sys": {
+							"space": {
+								"sys": {
+									"type": "Link",
+									"linkType": "Space",
+									"id": "bowp6b58zrrn"
+								}
+							},
+							"id": "2kwJRfxTSY0e0bpIZ1npFk",
+							"type": "Asset",
+							"createdAt": "2023-02-24T17:09:35.460Z",
+							"updatedAt": "2023-02-24T17:09:35.460Z",
+							"environment": {
+								"sys": {
+									"id": "master",
+									"type": "Link",
+									"linkType": "Environment"
+								}
+							},
+							"revision": 1,
+							"locale": "ru-RU"
+						}
+					},
+					{
+						"title": "IMG-9972",
+						"description": "",
+						"file": {
+							"url": "//images.ctfassets.net/1vay05tm7yg4/lDNGAo85vGabdrJfmyLWx/4227caa8a85911b7f06dc39cd9155963/____2.png",
 							"details": {
 								"size": 1164664,
 								"image": {
@@ -26275,7 +26316,7 @@ export const allTours = [
 							"title": "IMG-4415!",
 							"description": "",
 							"file": {
-								"url": "//images.ctfassets.net/1vay05tm7yg4/6sSX3Y6if84N1xrRBUW5f0/125542b5a95a30a2000b4a84314c2b0d/__________.png",
+								"url": "//images.ctfassets.net/1vay05tm7yg4/3eIl7xHf6hetE2Il2MANQf/5a76a01fcbfc1d2edebcddcdb0970054/______.png",
 								"details": {
 									"size": 978648,
 									"image": {
@@ -26855,167 +26896,7 @@ export const allTours = [
 													"type": "bold"
 												}
 											],
-											"value": "5. Какая одежда и обувь и аксессуары понадобятся для весеннего путешествия по Алтаю?",
-											"nodeType": "text"
-										}
-									],
-									"nodeType": "paragraph"
-								},
-								{
-									"data": {},
-									"content": [
-										{
-											"data": {},
-											"marks": [],
-											"value": "Для путешествия по Алтаю важно правильно подобрать одежду и обувь, так как погода в горах может быть непредсказуемой. Вам понадобится:",
-											"nodeType": "text"
-										}
-									],
-									"nodeType": "paragraph"
-								},
-								{
-									"data": {},
-									"content": [
-										{
-											"data": {},
-											"marks": [],
-											"value": "- Спортивный костюм;",
-											"nodeType": "text"
-										}
-									],
-									"nodeType": "paragraph"
-								},
-								{
-									"data": {},
-									"content": [
-										{
-											"data": {},
-											"marks": [],
-											"value": "- Футболки;",
-											"nodeType": "text"
-										}
-									],
-									"nodeType": "paragraph"
-								},
-								{
-									"data": {},
-									"content": [
-										{
-											"data": {},
-											"marks": [],
-											"value": "- Шорты, спортивные штаны, легенсы и велосипедки;",
-											"nodeType": "text"
-										}
-									],
-									"nodeType": "paragraph"
-								},
-								{
-									"data": {},
-									"content": [
-										{
-											"data": {},
-											"marks": [],
-											"value": "- Лёгкая куртка или ветровка;",
-											"nodeType": "text"
-										}
-									],
-									"nodeType": "paragraph"
-								},
-								{
-									"data": {},
-									"content": [
-										{
-											"data": {},
-											"marks": [],
-											"value": "- Дождевик;",
-											"nodeType": "text"
-										}
-									],
-									"nodeType": "paragraph"
-								},
-								{
-									"data": {},
-									"content": [
-										{
-											"data": {},
-											"marks": [],
-											"value": "- Кроссовки на толстой нескользящей подошве или треккинговая обувь;",
-											"nodeType": "text"
-										}
-									],
-									"nodeType": "paragraph"
-								},
-								{
-									"data": {},
-									"content": [
-										{
-											"data": {},
-											"marks": [],
-											"value": "- Головной убор;",
-											"nodeType": "text"
-										}
-									],
-									"nodeType": "paragraph"
-								},
-								{
-									"data": {},
-									"content": [
-										{
-											"data": {},
-											"marks": [],
-											"value": "- Толстовка или худи;",
-											"nodeType": "text"
-										}
-									],
-									"nodeType": "paragraph"
-								},
-								{
-									"data": {},
-									"content": [
-										{
-											"data": {},
-											"marks": [],
-											"value": "- Джинсы;",
-											"nodeType": "text"
-										}
-									],
-									"nodeType": "paragraph"
-								},
-								{
-									"data": {},
-									"content": [
-										{
-											"data": {},
-											"marks": [],
-											"value": "- Купальный костюм;",
-											"nodeType": "text"
-										}
-									],
-									"nodeType": "paragraph"
-								},
-								{
-									"data": {},
-									"content": [
-										{
-											"data": {},
-											"marks": [],
-											"value": "- Крем от солнца и спрей от клещей.",
-											"nodeType": "text"
-										}
-									],
-									"nodeType": "paragraph"
-								},
-								{
-									"data": {},
-									"content": [
-										{
-											"data": {},
-											"marks": [
-												{
-													"type": "bold"
-												}
-											],
-											"value": "6. Как забронировать путешествие?",
+											"value": "5. Как забронировать путешествие?",
 											"nodeType": "text"
 										}
 									],
