@@ -28952,7 +28952,7 @@ export const allTours = [
 												},
 												{
 													"nodeType": "text",
-													"value": " - гостевой дом в селе Соуга",
+													"value": " - гостевой дом в селе Соузга",
 													"marks": [],
 													"data": {}
 												}
