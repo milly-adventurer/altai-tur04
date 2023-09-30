@@ -23,16 +23,16 @@ const AdditionalInfoSection = (props: AdditionalInfoSectionProps) => {
 		title,
 		cards,
 	} = props;
-	
+
 	const [openCardId, setOpenCardId] = useState<number | null>(null);
 	// const [open, setOpen] = useState(false);
 	//
 	// const { additionalInfoOptions } = useContext(FormsContext);
 
-	const { basePrice, price_with_discount } = useContext(TourContext);
+	const { basePrice, price_with_discount, tourId } = useContext(TourContext);
 
 	const openCard = openCardId && cards[openCardId - 1];
-console.log(openCardId);
+
 	return (
 		<>
 			<Popup className={css.popup} contentClassName={css.popupContent} isOpen={openCardId !== null} onClose={() => setOpenCardId(null)}>
@@ -41,7 +41,7 @@ console.log(openCardId);
 					<div>
 						<h4 className={css.popupTitle}>{openCard.title}</h4>
 						{openCard.description && <div className={css.popupDescription}>{documentToReactComponents(openCard.description)}</div>}
-						{openCardId === 1 &&
+						{openCardId === 1 && tourId !== 'Новый Год на Алтае' &&
 							<div className={css.priceBlock}>
 								<Image src={wallet} alt={"Кошелек"} />
 								<div className={css.pricesWrapper}>
