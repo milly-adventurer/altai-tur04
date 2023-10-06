@@ -28166,7 +28166,7 @@ export const allTours = [
 							"title": "IMG-5808",
 							"description": "",
 							"file": {
-								"url": "//images.ctfassets.net/1vay05tm7yg4/5hVjil25qb5tQZzkKFgpiF/f8272c6558159a2c2412e43a0bed4e69/8ccd2836b8f6dbfd5581f1c967efce9d.jpg",
+								"url": "//images.ctfassets.net/1vay05tm7yg4/5hVjil25qb5tQZzkKFgpiF/94a201452eac66eb9df537551a4a5f84/8ccd2836b8f6dbfd5581f1c967efce9d.jpeg",
 								"details": {
 									"size": 2237028,
 									"image": {
@@ -28378,7 +28378,7 @@ export const allTours = [
 							"title": "IMG-4415",
 							"description": "",
 							"file": {
-								"url": "//images.ctfassets.net/1vay05tm7yg4/6pgGM94v5rgFMnjZL0mXPb/0eb8727b1e069b06050b793849a10456/8e34ddf8dfb61a9154ae645fca23c8ca.jpg",
+								"url": "//images.ctfassets.net/1vay05tm7yg4/6pgGM94v5rgFMnjZL0mXPb/0eb8727b1e069b06050b793849a10456/8e34ddf8dfb61a9154ae645fca23c8ca.jpeg",
 								"details": {
 									"size": 2628025,
 									"image": {
@@ -28537,7 +28537,7 @@ export const allTours = [
 							"title": "IMG-5691-(1)",
 							"description": "",
 							"file": {
-								"url": "//images.ctfassets.net/1vay05tm7yg4/6QmHW7DXqhrK4JI4HG8hOt/4420097548117fdbded6a7b0986eb28b/53d12ce728f5489c55cc470b0e6badda.jpg",
+								"url": "//images.ctfassets.net/1vay05tm7yg4/6QmHW7DXqhrK4JI4HG8hOt/4420097548117fdbded6a7b0986eb28b/53d12ce728f5489c55cc470b0e6badda.jpeg",
 								"details": {
 									"size": 1606258,
 									"image": {
@@ -28802,7 +28802,7 @@ export const allTours = [
 							"title": "IMG-5654",
 							"description": "",
 							"file": {
-								"url": "//images.ctfassets.net/1vay05tm7yg4/2HPMHvhpFTWSq9jLM0Aen0/272a2e352f66fe78d181f3ebf0fbbd50/192367e95669007ade9b3ee39072c3dc.jpg",
+								"url": "//images.ctfassets.net/1vay05tm7yg4/2HPMHvhpFTWSq9jLM0Aen0/272a2e352f66fe78d181f3ebf0fbbd50/192367e95669007ade9b3ee39072c3dc.jpeg",
 								"details": {
 									"size": 1250395,
 									"image": {
