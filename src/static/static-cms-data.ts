@@ -1611,7 +1611,7 @@ export const homePage = {
 						"title": "IMG-2922!",
 						"description": "",
 						"file": {
-							"url": "//images.ctfassets.net/1vay05tm7yg4/3J2war3E45kWlpeZUvTuVd/5e0555585a3a6305f135155b51db84b5/1623778858_51-pibig_info-p-altai-zimoi-priroda-krasivo-foto-53.jpg",
+							"url": "//images.ctfassets.net/1vay05tm7yg4/3J2war3E45kWlpeZUvTuVd/7423fb1e675ad686d07e7c96a77d3206/1623778858_51-pibig_info-p-altai-zimoi-priroda-krasivo-foto-53.jpg",
 							"details": {
 								"size": 1415482,
 								"image": {
@@ -27960,7 +27960,7 @@ export const allTours = [
 					"title": "IMG-2922",
 					"description": "",
 					"file": {
-						"url": "//images.ctfassets.net/1vay05tm7yg4/2vnck6fJ9BfnL3Ab0pQPCq/4e262868277b64081b62d83fbaa4777b/gornolyzhnye-kurorty-dlya-otdyha-s-detmi-01.jpg",
+						"url": "//images.ctfassets.net/1vay05tm7yg4/2vnck6fJ9BfnL3Ab0pQPCq/39a33ed636ed197a4f1615337d8b7d51/gornolyzhnye-kurorty-dlya-otdyha-s-detmi-01.jpg",
 						"details": {
 							"size": 1982269,
 							"image": {
@@ -28166,7 +28166,7 @@ export const allTours = [
 							"title": "IMG-5808",
 							"description": "",
 							"file": {
-								"url": "//images.ctfassets.net/1vay05tm7yg4/5hVjil25qb5tQZzkKFgpiF/94a201452eac66eb9df537551a4a5f84/8ccd2836b8f6dbfd5581f1c967efce9d.jpeg",
+								"url": "//images.ctfassets.net/1vay05tm7yg4/5hVjil25qb5tQZzkKFgpiF/f8272c6558159a2c2412e43a0bed4e69/8ccd2836b8f6dbfd5581f1c967efce9d.jpg",
 								"details": {
 									"size": 2237028,
 									"image": {
@@ -28207,7 +28207,7 @@ export const allTours = [
 							"title": "IMG-3213",
 							"description": "",
 							"file": {
-								"url": "//images.ctfassets.net/1vay05tm7yg4/4lDEskospAh0aWay72eipk/8150a71a16c045c349bca7a282ec70e9/msg426848633-20262.jpg",
+								"url": "//images.ctfassets.net/1vay05tm7yg4/4lDEskospAh0aWay72eipk/3ed9d2a97426f2059c32b9b7834cfe5a/msg426848633-20262.jpg",
 								"details": {
 									"size": 1719337,
 									"image": {
@@ -28337,7 +28337,7 @@ export const allTours = [
 							"title": "IMG-4417",
 							"description": "",
 							"file": {
-								"url": "//images.ctfassets.net/1vay05tm7yg4/2KKML6jTpF3l4fADBzmVwq/da389fc2476e397e68dd0595e650795b/1640905940_1-celes-club-p-zima-v-gornom-altae-priroda-krasivo-foto-1.jpg",
+								"url": "//images.ctfassets.net/1vay05tm7yg4/2KKML6jTpF3l4fADBzmVwq/829f80151d26024cdceb5ca94d07151e/1640905940_1-celes-club-p-zima-v-gornom-altae-priroda-krasivo-foto-1.jpg",
 								"details": {
 									"size": 2123651,
 									"image": {
@@ -28378,7 +28378,7 @@ export const allTours = [
 							"title": "IMG-4415",
 							"description": "",
 							"file": {
-								"url": "//images.ctfassets.net/1vay05tm7yg4/6pgGM94v5rgFMnjZL0mXPb/0eb8727b1e069b06050b793849a10456/8e34ddf8dfb61a9154ae645fca23c8ca.jpeg",
+								"url": "//images.ctfassets.net/1vay05tm7yg4/6pgGM94v5rgFMnjZL0mXPb/0de33feae70ce194a0dd403f1c872ed3/8e34ddf8dfb61a9154ae645fca23c8ca.jpg",
 								"details": {
 									"size": 2628025,
 									"image": {
@@ -28496,7 +28496,7 @@ export const allTours = [
 							"title": "IMG-0461",
 							"description": "",
 							"file": {
-								"url": "//images.ctfassets.net/1vay05tm7yg4/jZ6MfP08GU3XLUfQzYEZn/2200cb9f9d5b7c39c1015ef56112b18b/ded-moroz-i-snegurochka-v-russkoy-kulture-falklore.jpg",
+								"url": "//images.ctfassets.net/1vay05tm7yg4/jZ6MfP08GU3XLUfQzYEZn/c51731056bb772a14bd687c0f9344767/ded-moroz-i-snegurochka-v-russkoy-kulture-falklore.jpg",
 								"details": {
 									"size": 2222222,
 									"image": {
@@ -28537,7 +28537,7 @@ export const allTours = [
 							"title": "IMG-5691-(1)",
 							"description": "",
 							"file": {
-								"url": "//images.ctfassets.net/1vay05tm7yg4/6QmHW7DXqhrK4JI4HG8hOt/4420097548117fdbded6a7b0986eb28b/53d12ce728f5489c55cc470b0e6badda.jpeg",
+								"url": "//images.ctfassets.net/1vay05tm7yg4/6QmHW7DXqhrK4JI4HG8hOt/1c852b909ef8b680196e3861a2809f75/53d12ce728f5489c55cc470b0e6badda.jpg",
 								"details": {
 									"size": 1606258,
 									"image": {
@@ -28655,7 +28655,7 @@ export const allTours = [
 							"title": "IMG-5654",
 							"description": "",
 							"file": {
-								"url": "//images.ctfassets.net/1vay05tm7yg4/3kmJgMzvjERG1NTaAFGAz7/95a89649e2979f900f81a55a76069d6b/vhkysc07ffpztv6g5yicuu4dnalq523m.jpg",
+								"url": "//images.ctfassets.net/1vay05tm7yg4/3kmJgMzvjERG1NTaAFGAz7/80865d9339861f9fd51f0b7baf9e9b50/vhkysc07ffpztv6g5yicuu4dnalq523m.jpg",
 								"details": {
 									"size": 1250395,
 									"image": {
@@ -28696,7 +28696,7 @@ export const allTours = [
 							"title": "2023-01-18 00002",
 							"description": "",
 							"file": {
-								"url": "//images.ctfassets.net/1vay05tm7yg4/5lH66ma5XsybbelQ9PL9Wr/b5380de469bee31ee3d2231ef5d30993/4_Otdykh-v-Belokurikhe-zimoy.jpg",
+								"url": "//images.ctfassets.net/1vay05tm7yg4/5lH66ma5XsybbelQ9PL9Wr/adfc0a01276ce9e48572df261ba5e38b/4_Otdykh-v-Belokurikhe-zimoy.jpg",
 								"details": {
 									"size": 149245,
 									"image": {
@@ -28802,7 +28802,7 @@ export const allTours = [
 							"title": "IMG-5654",
 							"description": "",
 							"file": {
-								"url": "//images.ctfassets.net/1vay05tm7yg4/2HPMHvhpFTWSq9jLM0Aen0/272a2e352f66fe78d181f3ebf0fbbd50/192367e95669007ade9b3ee39072c3dc.jpeg",
+								"url": "//images.ctfassets.net/1vay05tm7yg4/2HPMHvhpFTWSq9jLM0Aen0/dc7d9d59ecc090762a192f636178797b/192367e95669007ade9b3ee39072c3dc.jpg",
 								"details": {
 									"size": 1250395,
 									"image": {
@@ -28843,7 +28843,7 @@ export const allTours = [
 							"title": "2023-01-18 00002",
 							"description": "",
 							"file": {
-								"url": "//images.ctfassets.net/1vay05tm7yg4/1i2sbggAnXMv2P3xQkFlvd/b9e3133d81185b0fe71f997f405c73b8/manzhero.png",
+								"url": "//images.ctfassets.net/1vay05tm7yg4/1i2sbggAnXMv2P3xQkFlvd/5b082628bb40d3d178abe5f1d170953b/manzhero.png",
 								"details": {
 									"size": 149245,
 									"image": {
@@ -29025,7 +29025,7 @@ export const allTours = [
 						"title": "IMG-9972",
 						"description": "",
 						"file": {
-							"url": "//images.ctfassets.net/1vay05tm7yg4/OpXv8o1oyKAQ9lSMezuly/3b03257c35b5401583c384ea0c8a3261/minus-za-oknom-eto-pljus-5-idej-dlja-zimnego-otdyha_15170471091804595102.jpg",
+							"url": "//images.ctfassets.net/1vay05tm7yg4/OpXv8o1oyKAQ9lSMezuly/b4163a403608f3e08acf8cdad0824b9a/minus-za-oknom-eto-pljus-5-idej-dlja-zimnego-otdyha_15170471091804595102.jpg",
 							"details": {
 								"size": 1164664,
 								"image": {
@@ -29066,7 +29066,7 @@ export const allTours = [
 						"title": "IMG-9972",
 						"description": "",
 						"file": {
-							"url": "//images.ctfassets.net/1vay05tm7yg4/5PYMNkIi93tiettxps69LJ/8c7b75ebeb39172237b4fec1c2af1867/New-Year-Karpaty-Lviv_1.jpg",
+							"url": "//images.ctfassets.net/1vay05tm7yg4/5PYMNkIi93tiettxps69LJ/7629246475b779fee22a87e1efb309ac/New-Year-Karpaty-Lviv_1.jpg",
 							"details": {
 								"size": 1164664,
 								"image": {
@@ -29107,7 +29107,7 @@ export const allTours = [
 						"title": "IMG-9972",
 						"description": "",
 						"file": {
-							"url": "//images.ctfassets.net/1vay05tm7yg4/7uE4F8nSLhsfr3ZTH5z5u/18288d864e7848775914827b48720025/eb6df5c4ec0e47047abd7b7fd0ac720a.jpg",
+							"url": "//images.ctfassets.net/1vay05tm7yg4/7uE4F8nSLhsfr3ZTH5z5u/5d52c1058f5bb2137f305dd7576c76ff/eb6df5c4ec0e47047abd7b7fd0ac720a.jpg",
 							"details": {
 								"size": 1164664,
 								"image": {
@@ -29148,7 +29148,7 @@ export const allTours = [
 						"title": "IMG-9972",
 						"description": "",
 						"file": {
-							"url": "//images.ctfassets.net/1vay05tm7yg4/4RTF4qxyLoRKUn6kdfjQUa/359694525a545f19e730bbc784a9d1ec/zimnij-altaj.jpg",
+							"url": "//images.ctfassets.net/1vay05tm7yg4/4RTF4qxyLoRKUn6kdfjQUa/f288943b339c69839b21b1849b5ec884/zimnij-altaj.jpg",
 							"details": {
 								"size": 1164664,
 								"image": {
@@ -29189,7 +29189,7 @@ export const allTours = [
 						"title": "IMG-9972",
 						"description": "",
 						"file": {
-							"url": "//images.ctfassets.net/1vay05tm7yg4/1Y3cBkBFyjYvR0Ri8U0K4j/588b466fc7ee9d1b11b2d1ad864539ff/zimniy-altai-3.jpg",
+							"url": "//images.ctfassets.net/1vay05tm7yg4/1Y3cBkBFyjYvR0Ri8U0K4j/24808e8d5d7555e8fa61cfa034bc64aa/zimniy-altai-3.jpg",
 							"details": {
 								"size": 1164664,
 								"image": {
@@ -29230,7 +29230,7 @@ export const allTours = [
 						"title": "IMG-9972",
 						"description": "",
 						"file": {
-							"url": "//images.ctfassets.net/1vay05tm7yg4/9cxQfl1Tsc4NZFXSIrfn0/5a0c749ad7a660acb80bd3d282ff9e00/1624289356_54-pibig_info-p-gornii-altai-zima-priroda-krasivo-foto-54.jpg",
+							"url": "//images.ctfassets.net/1vay05tm7yg4/9cxQfl1Tsc4NZFXSIrfn0/98b718c286188de07f77f34a800612bc/1624289356_54-pibig_info-p-gornii-altai-zima-priroda-krasivo-foto-54.jpg",
 							"details": {
 								"size": 1164664,
 								"image": {
@@ -29271,7 +29271,7 @@ export const allTours = [
 						"title": "IMG-9972",
 						"description": "",
 						"file": {
-							"url": "//images.ctfassets.net/1vay05tm7yg4/6CuO4MWuhPzSFE3zm7VGZM/7d28a593bbf1042bde72d067a05f9fb5/111.jpg",
+							"url": "//images.ctfassets.net/1vay05tm7yg4/6CuO4MWuhPzSFE3zm7VGZM/25842be80ca36b76346b90af3a6f76bd/111.jpg",
 							"details": {
 								"size": 1164664,
 								"image": {
@@ -29312,7 +29312,7 @@ export const allTours = [
 						"title": "IMG-9972",
 						"description": "",
 						"file": {
-							"url": "//images.ctfassets.net/1vay05tm7yg4/2vnck6fJ9BfnL3Ab0pQPCq/4e262868277b64081b62d83fbaa4777b/gornolyzhnye-kurorty-dlya-otdyha-s-detmi-01.jpg",
+							"url": "//images.ctfassets.net/1vay05tm7yg4/2vnck6fJ9BfnL3Ab0pQPCq/39a33ed636ed197a4f1615337d8b7d51/gornolyzhnye-kurorty-dlya-otdyha-s-detmi-01.jpg",
 							"details": {
 								"size": 1164664,
 								"image": {
@@ -29353,7 +29353,7 @@ export const allTours = [
 						"title": "IMG-9972",
 						"description": "",
 						"file": {
-							"url": "//images.ctfassets.net/1vay05tm7yg4/58enATJOkUDhrlFegBwdOC/87b6887d64dd52947148c1a6d8b3d31a/efdfa8c0-eaf9-4860-9ee5-4050ae2e9798.jpg",
+							"url": "//images.ctfassets.net/1vay05tm7yg4/58enATJOkUDhrlFegBwdOC/78486f3962d5f55622c68b08f0437630/efdfa8c0-eaf9-4860-9ee5-4050ae2e9798.jpg",
 							"details": {
 								"size": 1164664,
 								"image": {
@@ -29394,7 +29394,7 @@ export const allTours = [
 						"title": "IMG-9972",
 						"description": "",
 						"file": {
-							"url": "//images.ctfassets.net/1vay05tm7yg4/6lEZRJxESwVIvJZLdwndpS/f99fb541c09dc702cc936c7aa0151ddd/fil_2410-scaled-1.jpg",
+							"url": "//images.ctfassets.net/1vay05tm7yg4/6lEZRJxESwVIvJZLdwndpS/6a06aade255d4607ecca8affc7982450/fil_2410-scaled-1.jpg",
 							"details": {
 								"size": 1164664,
 								"image": {
@@ -29435,7 +29435,7 @@ export const allTours = [
 						"title": "IMG-9972",
 						"description": "",
 						"file": {
-							"url": "//images.ctfassets.net/1vay05tm7yg4/4OzBxlOtqF61rmhbeDIkzU/59203fe86aa37061615d313dc56bb4a0/Altaj-v-dekabre-1024x688.jpg",
+							"url": "//images.ctfassets.net/1vay05tm7yg4/4OzBxlOtqF61rmhbeDIkzU/7c72cb06e3cfcd9298f4400bf6621b90/Altaj-v-dekabre-1024x688.jpg",
 							"details": {
 								"size": 1164664,
 								"image": {
@@ -29476,7 +29476,7 @@ export const allTours = [
 						"title": "IMG-9972",
 						"description": "",
 						"file": {
-							"url": "//images.ctfassets.net/1vay05tm7yg4/18N4dqIHKKL1qklrnORIJ6/4d69292a09b37e188bcae8ac3046dedf/altay-zima-27.jpg",
+							"url": "//images.ctfassets.net/1vay05tm7yg4/18N4dqIHKKL1qklrnORIJ6/b9fdb7007c147a7cf861b9abcc3afb57/altay-zima-27.jpg",
 							"details": {
 								"size": 1164664,
 								"image": {
