@@ -1603,15 +1603,15 @@ export const homePage = {
 			"title": "Какие путешествия нас ждут?",
 			"tours": [
 				{
-					"id": "Осенний тур",
-					"title": "\"Осенняя гармония горного Алтая\"            02.10 - 07.10 и ещё 4 даты.             Всё включено!            ",
-					"description": "Чемальский район - Чуйский тракт - Перевал Кату-Ярык - Алтайский Марс - Сакральное место силы Алтая",
+					"id": "Новый Год на Алтае",
+					"title": "\"Новый Год на Алтае\"            Декабрь-Январь.             Всё включено!            ",
+					"description": "Чемальский тракт - Ороктойский мост - Остров Патмос - Горнолыжный курорт Манжерок",
 					"type": "tour",
 					"background": {
 						"title": "IMG-2922!",
 						"description": "",
 						"file": {
-							"url": "//images.ctfassets.net/1vay05tm7yg4/1GlLIwm2khSsFoqGw2mteW/a150eb41dcc812c8dff653b8d89a72fd/IMG-0798.jpg",
+							"url": "//images.ctfassets.net/1vay05tm7yg4/3J2war3E45kWlpeZUvTuVd/5e0555585a3a6305f135155b51db84b5/1623778858_51-pibig_info-p-altai-zimoi-priroda-krasivo-foto-53.jpg",
 							"details": {
 								"size": 1415482,
 								"image": {
@@ -1619,7 +1619,7 @@ export const homePage = {
 									"height": 1080
 								}
 							},
-							"fileName": "IMG-2922!.jpg",
+							"fileName": "______.png",
 							"contentType": "image/jpeg"
 						},
 						"metadata": {
@@ -1659,7 +1659,7 @@ export const homePage = {
 								"id": "bowp6b58zrrn"
 							}
 						},
-						"id": "3oBFwK2jZUEMs2o9w3zmDW",
+						"id": "3oBFwK2jZUEMs2o9w3zmD1",
 						"type": "Entry",
 						"createdAt": "2023-02-03T14:16:24.607Z",
 						"updatedAt": "2023-04-21T12:33:56.894Z",
@@ -1671,164 +1671,6 @@ export const homePage = {
 							}
 						},
 						"revision": 28,
-						"contentType": {
-							"sys": {
-								"type": "Link",
-								"linkType": "ContentType",
-								"id": "tour_card"
-							}
-						},
-						"locale": "ru-RU"
-					}
-				},
-				{
-					"id": "Классика",
-					"title": "\"Гармония Горного Алтая\"         05.06 - 10.06 и еще 9 дат.       Всё включено!",
-					"description": "Чемальский район - Чуйский тракт - Перевал Кату-Ярык - Алтайский Марс - Чуйская степь и Сайлюгемский природный парк",
-					"type": "tour",
-					"background": {
-						"title": "IMG-5691-(1)!",
-						"description": "",
-						"file": {
-							"url": "//images.ctfassets.net/1vay05tm7yg4/4auC5luiWxqWYQXG6y2rad/767747b037ea163be99fec003b31d3cc/IMG-5691-_1__.jpg",
-							"details": {
-								"size": 1249632,
-								"image": {
-									"width": 1340,
-									"height": 1080
-								}
-							},
-							"fileName": "IMG-5691-(1)!.jpg",
-							"contentType": "image/jpeg"
-						},
-						"metadata": {
-							"tags": []
-						},
-						"sys": {
-							"space": {
-								"sys": {
-									"type": "Link",
-									"linkType": "Space",
-									"id": "bowp6b58zrrn"
-								}
-							},
-							"id": "4auC5luiWxqWYQXG6y2rad",
-							"type": "Asset",
-							"createdAt": "2023-03-13T04:02:34.045Z",
-							"updatedAt": "2023-03-13T04:02:34.045Z",
-							"environment": {
-								"sys": {
-									"id": "master",
-									"type": "Link",
-									"linkType": "Environment"
-								}
-							},
-							"revision": 1,
-							"locale": "ru-RU"
-						}
-					},
-					"metadata": {
-						"tags": []
-					},
-					"sys": {
-						"space": {
-							"sys": {
-								"type": "Link",
-								"linkType": "Space",
-								"id": "bowp6b58zrrn"
-							}
-						},
-						"id": "6Zyup8DyX1HomRyl3NEnDB",
-						"type": "Entry",
-						"createdAt": "2023-02-20T14:22:40.280Z",
-						"updatedAt": "2023-03-22T04:26:42.136Z",
-						"environment": {
-							"sys": {
-								"id": "master",
-								"type": "Link",
-								"linkType": "Environment"
-							}
-						},
-						"revision": 13,
-						"contentType": {
-							"sys": {
-								"type": "Link",
-								"linkType": "ContentType",
-								"id": "tour_card"
-							}
-						},
-						"locale": "ru-RU"
-					}
-				},
-				{
-					"id": "Кругосветка",
-					"title": "\"Кругосветное путешествие по Алтаю\"        26.05 - 03.06 и ещё 7 дат.        Всё включено!",
-					"description": "Чемальский район - Уймонская долина - Мультинские озёра - Чуйский тракт - Алтайский Марс - Чуйская степь - Перевал Кату-Ярык - Долина реки Чулышман - Каменные грибы - Телецкое озеро",
-					"type": "tour",
-					"background": {
-						"title": "IMG-1408!",
-						"description": "",
-						"file": {
-							"url": "//images.ctfassets.net/1vay05tm7yg4/da00lbAdnYcKPgbitFIh3/ee111ee50805e8c74f0756833def5778/IMG-1408_.jpg",
-							"details": {
-								"size": 918970,
-								"image": {
-									"width": 1350,
-									"height": 1080
-								}
-							},
-							"fileName": "IMG-1408!.jpg",
-							"contentType": "image/jpeg"
-						},
-						"metadata": {
-							"tags": []
-						},
-						"sys": {
-							"space": {
-								"sys": {
-									"type": "Link",
-									"linkType": "Space",
-									"id": "bowp6b58zrrn"
-								}
-							},
-							"id": "da00lbAdnYcKPgbitFIh3",
-							"type": "Asset",
-							"createdAt": "2023-03-01T02:43:53.249Z",
-							"updatedAt": "2023-03-01T02:43:53.249Z",
-							"environment": {
-								"sys": {
-									"id": "master",
-									"type": "Link",
-									"linkType": "Environment"
-								}
-							},
-							"revision": 1,
-							"locale": "ru-RU"
-						}
-					},
-					"metadata": {
-						"tags": []
-					},
-					"sys": {
-						"space": {
-							"sys": {
-								"type": "Link",
-								"linkType": "Space",
-								"id": "bowp6b58zrrn"
-							}
-						},
-						"id": "5YuJdRErtSvozGLDlg3BwE",
-						"type": "Entry",
-						"createdAt": "2023-02-23T06:28:20.734Z",
-						"updatedAt": "2023-03-22T15:39:24.464Z",
-						"environment": {
-							"sys": {
-								"id": "master",
-								"type": "Link",
-								"linkType": "Environment"
-							}
-						},
-						"revision": 11,
 						"contentType": {
 							"sys": {
 								"type": "Link",
@@ -1998,15 +1840,173 @@ export const homePage = {
 					}
 				},
 				{
-					"id": "Новый Год на Алтае",
-					"title": "\"Новый Год на Алтае\"            Декабрь-Январь.             Всё включено!            ",
-					"description": "Чемальский тракт - Ороктойский мост - Остров Патмос - Горнолыжный курорт Манжерок",
+					"id": "Классика",
+					"title": "\"Гармония Горного Алтая\"         05.06 - 10.06 и еще 9 дат.       Всё включено!",
+					"description": "Чемальский район - Чуйский тракт - Перевал Кату-Ярык - Алтайский Марс - Чуйская степь и Сайлюгемский природный парк",
+					"type": "tour",
+					"background": {
+						"title": "IMG-5691-(1)!",
+						"description": "",
+						"file": {
+							"url": "//images.ctfassets.net/1vay05tm7yg4/4auC5luiWxqWYQXG6y2rad/767747b037ea163be99fec003b31d3cc/IMG-5691-_1__.jpg",
+							"details": {
+								"size": 1249632,
+								"image": {
+									"width": 1340,
+									"height": 1080
+								}
+							},
+							"fileName": "IMG-5691-(1)!.jpg",
+							"contentType": "image/jpeg"
+						},
+						"metadata": {
+							"tags": []
+						},
+						"sys": {
+							"space": {
+								"sys": {
+									"type": "Link",
+									"linkType": "Space",
+									"id": "bowp6b58zrrn"
+								}
+							},
+							"id": "4auC5luiWxqWYQXG6y2rad",
+							"type": "Asset",
+							"createdAt": "2023-03-13T04:02:34.045Z",
+							"updatedAt": "2023-03-13T04:02:34.045Z",
+							"environment": {
+								"sys": {
+									"id": "master",
+									"type": "Link",
+									"linkType": "Environment"
+								}
+							},
+							"revision": 1,
+							"locale": "ru-RU"
+						}
+					},
+					"metadata": {
+						"tags": []
+					},
+					"sys": {
+						"space": {
+							"sys": {
+								"type": "Link",
+								"linkType": "Space",
+								"id": "bowp6b58zrrn"
+							}
+						},
+						"id": "6Zyup8DyX1HomRyl3NEnDB",
+						"type": "Entry",
+						"createdAt": "2023-02-20T14:22:40.280Z",
+						"updatedAt": "2023-03-22T04:26:42.136Z",
+						"environment": {
+							"sys": {
+								"id": "master",
+								"type": "Link",
+								"linkType": "Environment"
+							}
+						},
+						"revision": 13,
+						"contentType": {
+							"sys": {
+								"type": "Link",
+								"linkType": "ContentType",
+								"id": "tour_card"
+							}
+						},
+						"locale": "ru-RU"
+					}
+				},
+				{
+					"id": "Кругосветка",
+					"title": "\"Кругосветное путешествие по Алтаю\"        11.06 - 18.06 и ещё 7 дат.        Всё включено!",
+					"description": "Чемальский район - Уймонская долина - Чуйский тракт - Алтайский Марс - Чуйская степь - Перевал Кату-Ярык - Долина реки Чулышман - Каменные грибы - Телецкое озеро",
+					"type": "tour",
+					"background": {
+						"title": "IMG-1408!",
+						"description": "",
+						"file": {
+							"url": "//images.ctfassets.net/1vay05tm7yg4/da00lbAdnYcKPgbitFIh3/ee111ee50805e8c74f0756833def5778/IMG-1408_.jpg",
+							"details": {
+								"size": 918970,
+								"image": {
+									"width": 1350,
+									"height": 1080
+								}
+							},
+							"fileName": "IMG-1408!.jpg",
+							"contentType": "image/jpeg"
+						},
+						"metadata": {
+							"tags": []
+						},
+						"sys": {
+							"space": {
+								"sys": {
+									"type": "Link",
+									"linkType": "Space",
+									"id": "bowp6b58zrrn"
+								}
+							},
+							"id": "da00lbAdnYcKPgbitFIh3",
+							"type": "Asset",
+							"createdAt": "2023-03-01T02:43:53.249Z",
+							"updatedAt": "2023-03-01T02:43:53.249Z",
+							"environment": {
+								"sys": {
+									"id": "master",
+									"type": "Link",
+									"linkType": "Environment"
+								}
+							},
+							"revision": 1,
+							"locale": "ru-RU"
+						}
+					},
+					"metadata": {
+						"tags": []
+					},
+					"sys": {
+						"space": {
+							"sys": {
+								"type": "Link",
+								"linkType": "Space",
+								"id": "bowp6b58zrrn"
+							}
+						},
+						"id": "5YuJdRErtSvozGLDlg3BwE",
+						"type": "Entry",
+						"createdAt": "2023-02-23T06:28:20.734Z",
+						"updatedAt": "2023-03-22T15:39:24.464Z",
+						"environment": {
+							"sys": {
+								"id": "master",
+								"type": "Link",
+								"linkType": "Environment"
+							}
+						},
+						"revision": 11,
+						"contentType": {
+							"sys": {
+								"type": "Link",
+								"linkType": "ContentType",
+								"id": "tour_card"
+							}
+						},
+						"locale": "ru-RU"
+					}
+				},
+				{
+					"id": "Осенний тур",
+					"title": "\"Осенняя гармония горного Алтая\"            02.10 - 07.10 и ещё 4 даты.             Всё включено!            ",
+					"description": "Чемальский район - Чуйский тракт - Перевал Кату-Ярык - Алтайский Марс - Сакральное место силы Алтая",
 					"type": "tour",
 					"background": {
 						"title": "IMG-2922!",
 						"description": "",
 						"file": {
-							"url": "//images.ctfassets.net/1vay05tm7yg4/3J2war3E45kWlpeZUvTuVd/5e0555585a3a6305f135155b51db84b5/1623778858_51-pibig_info-p-altai-zimoi-priroda-krasivo-foto-53.jpg",
+							"url": "//images.ctfassets.net/1vay05tm7yg4/1GlLIwm2khSsFoqGw2mteW/a150eb41dcc812c8dff653b8d89a72fd/IMG-0798.jpg",
 							"details": {
 								"size": 1415482,
 								"image": {
@@ -2014,7 +2014,7 @@ export const homePage = {
 									"height": 1080
 								}
 							},
-							"fileName": "______.png",
+							"fileName": "IMG-2922!.jpg",
 							"contentType": "image/jpeg"
 						},
 						"metadata": {
@@ -2054,7 +2054,7 @@ export const homePage = {
 								"id": "bowp6b58zrrn"
 							}
 						},
-						"id": "3oBFwK2jZUEMs2o9w3zmD1",
+						"id": "3oBFwK2jZUEMs2o9w3zmDW",
 						"type": "Entry",
 						"createdAt": "2023-02-03T14:16:24.607Z",
 						"updatedAt": "2023-04-21T12:33:56.894Z",
@@ -3627,10 +3627,10 @@ export const toursPrices = {
 	"limit": 100,
 	"items": [
 		{
-			"base_price": 56000,
-			"id": "Осенний тур",
+			"base_price": 70000,
+			"id": "Новый Год на Алтае",
 			"sys": {
-				"id": "6hbki1yCksmi3M9gEyQHqw",
+				"id": "6hbki1yCksmi3M9gEyQHq1",
 				"type": "Entry"
 			}
 		},
@@ -3643,18 +3643,26 @@ export const toursPrices = {
 			}
 		},
 		{
-			"base_price": 70000,
-			"id": "Новый Год на Алтае",
-			"sys": {
-				"id": "6hbki1yCksmi3M9gEyQHq1",
-				"type": "Entry"
-			}
-		},
-		{
 			"base_price": 45000,
 			"id": "Зимняя гармония горного Алтая",
 			"sys": {
 				"id": "6hbki1yCksmi3M9gEyQHq2",
+				"type": "Entry"
+			}
+		},
+		{
+			"base_price": 56000,
+			"id": "Осенний тур",
+			"sys": {
+				"id": "6hbki1yCksmi3M9gEyQHqw",
+				"type": "Entry"
+			}
+		},
+		{
+			"base_price": 75000,
+			"id": "Кругосветка",
+			"sys": {
+				"id": "1TPPpVUs3CIxijlptBbheb",
 				"type": "Entry"
 			}
 		},
@@ -3674,14 +3682,7 @@ export const toursPrices = {
 				"type": "Entry"
 			}
 		},
-		{
-			"base_price": 89000,
-			"id": "Кругосветка",
-			"sys": {
-				"id": "1TPPpVUs3CIxijlptBbheb",
-				"type": "Entry"
-			}
-		}
+
 	]
 }
 
@@ -17475,11 +17476,11 @@ export const allTours = [
 	},
 	{
 		"id": "Кругосветка",
-		"base_price": 89000,
+		"base_price": 75000,
 		"sections": [
 			{
-				"title": "\"Кругосветное путешествие по Алтаю\"           89000₽. 9 дней. Всё включено!",
-				"description": "Все самые яркие и впечатляющие пейзажи и места силы Горного Алтая в одном большом кольцевом туре по горным озёрам, живописным долинам рек и бескрайним просторам величественной страны гор. Знаменитое \"Золотое кольцо Алтая\" с посещением Мультинских озер. ",
+				"title": "\"Кругосветное путешествие по Алтаю\"           75000₽. 7 дней. Всё включено!",
+				"description": "Все самые яркие и впечатляющие пейзажи и места силы Горного Алтая в одном большом кольцевом туре по горным озёрам, живописным долинам рек и бескрайним просторам величественной страны гор. Знаменитое \"Золотое кольцо Алтая\". ",
 				"background": {
 					"title": "IMG-1408",
 					"description": "",
@@ -17560,115 +17561,7 @@ export const allTours = [
 				"dates": [
 					{
 						"available_places": 14,
-						"date": "26 мая - 3 июня",
-						"metadata": {
-							"tags": []
-						},
-						"sys": {
-							"space": {
-								"sys": {
-									"type": "Link",
-									"linkType": "Space",
-									"id": "bowp6b58zrrn"
-								}
-							},
-							"id": "2I9o3Ru39ygJ9321eR0Lm9",
-							"type": "Entry",
-							"createdAt": "2023-02-24T13:54:41.835Z",
-							"updatedAt": "2023-02-24T13:54:41.835Z",
-							"environment": {
-								"sys": {
-									"id": "master",
-									"type": "Link",
-									"linkType": "Environment"
-								}
-							},
-							"revision": 1,
-							"contentType": {
-								"sys": {
-									"type": "Link",
-									"linkType": "ContentType",
-									"id": "tour_date"
-								}
-							},
-							"locale": "ru-RU"
-						}
-					},
-					{
-						"available_places": 14,
-						"date": "5 июня - 13 июня",
-						"metadata": {
-							"tags": []
-						},
-						"sys": {
-							"space": {
-								"sys": {
-									"type": "Link",
-									"linkType": "Space",
-									"id": "bowp6b58zrrn"
-								}
-							},
-							"id": "24N7RVbk0sq7TPDJnBeAns",
-							"type": "Entry",
-							"createdAt": "2023-02-24T13:55:20.869Z",
-							"updatedAt": "2023-02-24T13:55:20.869Z",
-							"environment": {
-								"sys": {
-									"id": "master",
-									"type": "Link",
-									"linkType": "Environment"
-								}
-							},
-							"revision": 1,
-							"contentType": {
-								"sys": {
-									"type": "Link",
-									"linkType": "ContentType",
-									"id": "tour_date"
-								}
-							},
-							"locale": "ru-RU"
-						}
-					},
-					{
-						"available_places": 14,
-						"date": "23 июня - 1 июля",
-						"metadata": {
-							"tags": []
-						},
-						"sys": {
-							"space": {
-								"sys": {
-									"type": "Link",
-									"linkType": "Space",
-									"id": "bowp6b58zrrn"
-								}
-							},
-							"id": "1Nxs6SsldlL59LNp2qZvMM",
-							"type": "Entry",
-							"createdAt": "2023-02-24T13:55:55.751Z",
-							"updatedAt": "2023-02-24T13:55:55.751Z",
-							"environment": {
-								"sys": {
-									"id": "master",
-									"type": "Link",
-									"linkType": "Environment"
-								}
-							},
-							"revision": 1,
-							"contentType": {
-								"sys": {
-									"type": "Link",
-									"linkType": "ContentType",
-									"id": "tour_date"
-								}
-							},
-							"locale": "ru-RU"
-						}
-					},
-					{
-						"available_places": 14,
-						"date": "7 июля - 15 июля",
+						"date": "11 июня - 18 июня",
 						"metadata": {
 							"tags": []
 						},
@@ -17704,7 +17597,7 @@ export const allTours = [
 					},
 					{
 						"available_places": 14,
-						"date": "21 июля - 29 июля",
+						"date": "25 июня - 2 июля",
 						"metadata": {
 							"tags": []
 						},
@@ -17740,7 +17633,7 @@ export const allTours = [
 					},
 					{
 						"available_places": 14,
-						"date": "4 августа - 12 августа",
+						"date": "9 июля - 16 июля",
 						"metadata": {
 							"tags": []
 						},
@@ -17776,7 +17669,7 @@ export const allTours = [
 					},
 					{
 						"available_places": 14,
-						"date": "18 августа - 26 августа",
+						"date": "23 июля - 30 июля",
 						"metadata": {
 							"tags": []
 						},
@@ -17812,7 +17705,115 @@ export const allTours = [
 					},
 					{
 						"available_places": 14,
-						"date": "15 сентября - 23 сентября",
+						"date": "6 августа - 13 августа",
+						"metadata": {
+							"tags": []
+						},
+						"sys": {
+							"space": {
+								"sys": {
+									"type": "Link",
+									"linkType": "Space",
+									"id": "bowp6b58zrrn"
+								}
+							},
+							"id": "6U1mPR3avEZ7xlnEbzazzu",
+							"type": "Entry",
+							"createdAt": "2023-02-24T13:58:53.584Z",
+							"updatedAt": "2023-02-24T13:58:53.584Z",
+							"environment": {
+								"sys": {
+									"id": "master",
+									"type": "Link",
+									"linkType": "Environment"
+								}
+							},
+							"revision": 1,
+							"contentType": {
+								"sys": {
+									"type": "Link",
+									"linkType": "ContentType",
+									"id": "tour_date"
+								}
+							},
+							"locale": "ru-RU"
+						}
+					},
+					{
+						"available_places": 14,
+						"date": "20 августа - 27 августа",
+						"metadata": {
+							"tags": []
+						},
+						"sys": {
+							"space": {
+								"sys": {
+									"type": "Link",
+									"linkType": "Space",
+									"id": "bowp6b58zrrn"
+								}
+							},
+							"id": "6U1mPR3avEZ7xlnEbzazzu",
+							"type": "Entry",
+							"createdAt": "2023-02-24T13:58:53.584Z",
+							"updatedAt": "2023-02-24T13:58:53.584Z",
+							"environment": {
+								"sys": {
+									"id": "master",
+									"type": "Link",
+									"linkType": "Environment"
+								}
+							},
+							"revision": 1,
+							"contentType": {
+								"sys": {
+									"type": "Link",
+									"linkType": "ContentType",
+									"id": "tour_date"
+								}
+							},
+							"locale": "ru-RU"
+						}
+					},
+					{
+						"available_places": 14,
+						"date": "3 сентября - 10 сентября",
+						"metadata": {
+							"tags": []
+						},
+						"sys": {
+							"space": {
+								"sys": {
+									"type": "Link",
+									"linkType": "Space",
+									"id": "bowp6b58zrrn"
+								}
+							},
+							"id": "6U1mPR3avEZ7xlnEbzazzu",
+							"type": "Entry",
+							"createdAt": "2023-02-24T13:58:53.584Z",
+							"updatedAt": "2023-02-24T13:58:53.584Z",
+							"environment": {
+								"sys": {
+									"id": "master",
+									"type": "Link",
+									"linkType": "Environment"
+								}
+							},
+							"revision": 1,
+							"contentType": {
+								"sys": {
+									"type": "Link",
+									"linkType": "ContentType",
+									"id": "tour_date"
+								}
+							},
+							"locale": "ru-RU"
+						}
+					},
+					{
+						"available_places": 14,
+						"date": "1 октября - 8 октября",
 						"metadata": {
 							"tags": []
 						},
@@ -18193,601 +18194,7 @@ export const allTours = [
 						}
 					},
 					{
-						"title": "День 2 - Тайны Уймонской долины и ворота в Беловодье",
-						"description_short": "Мы отправимся в таинственное место Горного Алтая, которое многие называют воротами в Беловодье или русскую Шамбалу, воспетую в легендах и сказаниях",
-						"description_long": {
-							"data": {},
-							"content": [
-								{
-									"data": {},
-									"content": [
-										{
-											"data": {},
-											"marks": [],
-											"value": "Сегодня мы отправимся в таинственное место Горного Алтая, которое многие называют воротами в Беловодье или русскую Шамбалу, воспетую в легендах и сказаниях. ",
-											"nodeType": "text"
-										}
-									],
-									"nodeType": "paragraph"
-								},
-								{
-									"data": {},
-									"content": [
-										{
-											"data": {},
-											"marks": [],
-											"value": "Мы проедем часть пути по самой живописной дороге России - Чуйскому тракту и свернём в сторону Уймонской долины. Здесь среди вершин Катунского хребта красуется неприступная гора Белуха, с ледников которой берет своё начало река Катунь.",
-											"nodeType": "text"
-										}
-									],
-									"nodeType": "paragraph"
-								},
-								{
-									"data": {},
-									"content": [
-										{
-											"data": {},
-											"marks": [],
-											"value": "Здесь бывали многие знаменитые путешественники и исследователи. Известный художник Николай Рерих искал загадочную страну Беловодье. По пути в село Замульта, мы будем любоваться просторами Уймонской долины и заедем в Верхний Уймон, чтобы посетить музей Рериха.",
-											"nodeType": "text"
-										}
-									],
-									"nodeType": "paragraph"
-								},
-								{
-									"data": {},
-									"content": [
-										{
-											"data": {},
-											"marks": [],
-											"value": "",
-											"nodeType": "text"
-										}
-									],
-									"nodeType": "paragraph"
-								},
-								{
-									"data": {},
-									"content": [],
-									"nodeType": "hr"
-								},
-								{
-									"data": {},
-									"content": [
-										{
-											"data": {},
-											"marks": [],
-											"value": "",
-											"nodeType": "text"
-										}
-									],
-									"nodeType": "paragraph"
-								},
-								{
-									"data": {},
-									"content": [
-										{
-											"data": {},
-											"marks": [],
-											"value": "Программа дня:",
-											"nodeType": "text"
-										}
-									],
-									"nodeType": "heading-3"
-								},
-								{
-									"data": {},
-									"content": [
-										{
-											"data": {},
-											"marks": [],
-											"value": "",
-											"nodeType": "text"
-										}
-									],
-									"nodeType": "paragraph"
-								},
-								{
-									"data": {},
-									"content": [
-										{
-											"data": {},
-											"marks": [],
-											"value": "- Завтрак;",
-											"nodeType": "text"
-										}
-									],
-									"nodeType": "paragraph"
-								},
-								{
-									"data": {},
-									"content": [
-										{
-											"data": {},
-											"marks": [],
-											"value": "- Путешествие по одной из самых красивых дорог мира, Чуйскому тракту:",
-											"nodeType": "text"
-										}
-									],
-									"nodeType": "paragraph"
-								},
-								{
-									"data": {},
-									"content": [
-										{
-											"data": {},
-											"marks": [],
-											"value": "- Семинский перевал;",
-											"nodeType": "text"
-										}
-									],
-									"nodeType": "paragraph"
-								},
-								{
-									"data": {},
-									"content": [
-										{
-											"data": {},
-											"marks": [],
-											"value": "- Обед;",
-											"nodeType": "text"
-										}
-									],
-									"nodeType": "paragraph"
-								},
-								{
-									"data": {},
-									"content": [
-										{
-											"data": {},
-											"marks": [],
-											"value": "- Уймонская Долина; ",
-											"nodeType": "text"
-										}
-									],
-									"nodeType": "paragraph"
-								},
-								{
-									"data": {},
-									"content": [
-										{
-											"data": {},
-											"marks": [],
-											"value": "- Музей Николая Рериха в селе Верхний Уймон;",
-											"nodeType": "text"
-										}
-									],
-									"nodeType": "paragraph"
-								},
-								{
-									"data": {},
-									"content": [
-										{
-											"data": {},
-											"marks": [],
-											"value": "- Заселение на турбазу в селе Замульта, ужин, баня по желанию.",
-											"nodeType": "text"
-										}
-									],
-									"nodeType": "paragraph"
-								}
-							],
-							"nodeType": "document"
-						},
-						"background_image": {
-							"title": "IMG-1324",
-							"description": "",
-							"file": {
-								"url": "//images.ctfassets.net/1vay05tm7yg4/3g3r5PYISx45LOy7AHnt4j/87c68db1621c9d5860d3c2d39686fe13/IMG-1324.jpg",
-								"details": {
-									"size": 2030253,
-									"image": {
-										"width": 1920,
-										"height": 1080
-									}
-								},
-								"fileName": "IMG-1324.jpg",
-								"contentType": "image/jpeg"
-							},
-							"metadata": {
-								"tags": []
-							},
-							"sys": {
-								"space": {
-									"sys": {
-										"type": "Link",
-										"linkType": "Space",
-										"id": "bowp6b58zrrn"
-									}
-								},
-								"id": "5WW0LyPOt5vwvOzWE21e7z",
-								"type": "Asset",
-								"createdAt": "2023-02-24T14:15:13.205Z",
-								"updatedAt": "2023-02-24T14:15:13.205Z",
-								"environment": {
-									"sys": {
-										"id": "master",
-										"type": "Link",
-										"linkType": "Environment"
-									}
-								},
-								"revision": 1,
-								"locale": "ru-RU"
-							}
-						},
-						"image": {
-							"title": "IMG-1327",
-							"description": "",
-							"file": {
-								"url": "//images.ctfassets.net/1vay05tm7yg4/4tNMoDDek70q31Lw4ebuxt/c6c3d73da63925ad4cf7d1244983bf39/IMG-1327.jpg",
-								"details": {
-									"size": 1329929,
-									"image": {
-										"width": 1920,
-										"height": 1080
-									}
-								},
-								"fileName": "IMG-1327.jpg",
-								"contentType": "image/jpeg"
-							},
-							"metadata": {
-								"tags": []
-							},
-							"sys": {
-								"space": {
-									"sys": {
-										"type": "Link",
-										"linkType": "Space",
-										"id": "bowp6b58zrrn"
-									}
-								},
-								"id": "3tU4mdlLWuYBiFn9yoKbTq",
-								"type": "Asset",
-								"createdAt": "2023-02-24T14:16:08.599Z",
-								"updatedAt": "2023-02-24T14:16:08.599Z",
-								"environment": {
-									"sys": {
-										"id": "master",
-										"type": "Link",
-										"linkType": "Environment"
-									}
-								},
-								"revision": 1,
-								"locale": "ru-RU"
-							}
-						},
-						"metadata": {
-							"tags": []
-						},
-						"sys": {
-							"space": {
-								"sys": {
-									"type": "Link",
-									"linkType": "Space",
-									"id": "bowp6b58zrrn"
-								}
-							},
-							"id": "20BhUdjzofHXmOJelu0lJ2",
-							"type": "Entry",
-							"createdAt": "2023-02-24T14:13:06.871Z",
-							"updatedAt": "2023-02-28T03:02:29.491Z",
-							"environment": {
-								"sys": {
-									"id": "master",
-									"type": "Link",
-									"linkType": "Environment"
-								}
-							},
-							"revision": 4,
-							"contentType": {
-								"sys": {
-									"type": "Link",
-									"linkType": "ContentType",
-									"id": "day"
-								}
-							},
-							"locale": "ru-RU"
-						}
-					},
-					{
-						"title": "День 3 - Волшебство Мультинских озёр",
-						"description_short": "Сегодня нас ждёт путешествие к высокогорным Мультинским озёрам. Мы проедем на проходимом автомобиле по горной тайге, по пути будем любоваться снежными вершинами Катунского хребта",
-						"description_long": {
-							"data": {},
-							"content": [
-								{
-									"data": {},
-									"content": [
-										{
-											"data": {},
-											"marks": [],
-											"value": "С первыми лучами солнца мы отправимся в путешествие к высокогорным Мультинским озёрам, где берет начало река Мульта и несёт свои воды до слияния с Катунью. Мы проедем на проходимом автомобиле по горной тайге, по пути будем любоваться снежными вершинами Катунского хребта.",
-											"nodeType": "text"
-										}
-									],
-									"nodeType": "paragraph"
-								},
-								{
-									"data": {},
-									"content": [
-										{
-											"data": {},
-											"marks": [],
-											"value": "Впереди нас будет ждать приключение на Мультинских озёрах, где вечные ледники и голубое небо отражаются в зеркальной водной глади. Мы отдохнем на берегу Нижнего Мультинского озера, прогуляемся по лесной тропе до Среднего озера, насладимся красотой, спокойствием и тишиной. Вечером вернемся на нашу уютную турбазу в селе Замульта, где нас будет ждать ужин на природе и баня.",
-											"nodeType": "text"
-										}
-									],
-									"nodeType": "paragraph"
-								},
-								{
-									"data": {},
-									"content": [
-										{
-											"data": {},
-											"marks": [],
-											"value": "",
-											"nodeType": "text"
-										}
-									],
-									"nodeType": "paragraph"
-								},
-								{
-									"data": {},
-									"content": [],
-									"nodeType": "hr"
-								},
-								{
-									"data": {},
-									"content": [
-										{
-											"data": {},
-											"marks": [],
-											"value": "",
-											"nodeType": "text"
-										}
-									],
-									"nodeType": "paragraph"
-								},
-								{
-									"data": {},
-									"content": [
-										{
-											"data": {},
-											"marks": [],
-											"value": "Программа дня:",
-											"nodeType": "text"
-										}
-									],
-									"nodeType": "heading-3"
-								},
-								{
-									"data": {},
-									"content": [
-										{
-											"data": {},
-											"marks": [],
-											"value": "",
-											"nodeType": "text"
-										}
-									],
-									"nodeType": "paragraph"
-								},
-								{
-									"data": {},
-									"content": [
-										{
-											"data": {},
-											"marks": [],
-											"value": "- Завтрак;",
-											"nodeType": "text"
-										}
-									],
-									"nodeType": "paragraph"
-								},
-								{
-									"data": {},
-									"content": [
-										{
-											"data": {},
-											"marks": [],
-											"value": "- Путь до Мультинских озер на внедорожнике;",
-											"nodeType": "text"
-										}
-									],
-									"nodeType": "paragraph"
-								},
-								{
-									"data": {},
-									"content": [
-										{
-											"data": {},
-											"marks": [],
-											"value": "- Обед в кафе на Нижнем Мультинском озере;",
-											"nodeType": "text"
-										}
-									],
-									"nodeType": "paragraph"
-								},
-								{
-									"data": {},
-									"content": [
-										{
-											"data": {},
-											"marks": [],
-											"value": "- Прогулка вдоль берега Нижнего Мультинского озера к Среднему по лесной тропе;",
-											"nodeType": "text"
-										}
-									],
-									"nodeType": "paragraph"
-								},
-								{
-									"data": {},
-									"content": [
-										{
-											"data": {},
-											"marks": [],
-											"value": "- \"Шумы\" - место, где Среднее озеро перетекает в Нижнее;",
-											"nodeType": "text"
-										}
-									],
-									"nodeType": "paragraph"
-								},
-								{
-									"data": {},
-									"content": [
-										{
-											"data": {},
-											"marks": [],
-											"value": "- Отдых на берегу; ",
-											"nodeType": "text"
-										}
-									],
-									"nodeType": "paragraph"
-								},
-								{
-									"data": {},
-									"content": [
-										{
-											"data": {},
-											"marks": [],
-											"value": "- Возвращение в село Замульта;",
-											"nodeType": "text"
-										}
-									],
-									"nodeType": "paragraph"
-								},
-								{
-									"data": {},
-									"content": [
-										{
-											"data": {},
-											"marks": [],
-											"value": "- Ужин на природе, баня по желанию.",
-											"nodeType": "text"
-										}
-									],
-									"nodeType": "paragraph"
-								}
-							],
-							"nodeType": "document"
-						},
-						"background_image": {
-							"title": "IMG-1374",
-							"description": "",
-							"file": {
-								"url": "//images.ctfassets.net/1vay05tm7yg4/5URLIkQ7nUZWSPargVWoSJ/395bde6a182879feefd2aafcbc77ae3d/IMG-1374.jpg",
-								"details": {
-									"size": 1751040,
-									"image": {
-										"width": 1920,
-										"height": 1080
-									}
-								},
-								"fileName": "IMG-1374.jpg",
-								"contentType": "image/jpeg"
-							},
-							"metadata": {
-								"tags": []
-							},
-							"sys": {
-								"space": {
-									"sys": {
-										"type": "Link",
-										"linkType": "Space",
-										"id": "bowp6b58zrrn"
-									}
-								},
-								"id": "MnDlTLrRlAf6huZQbgFQa",
-								"type": "Asset",
-								"createdAt": "2023-02-24T14:20:35.942Z",
-								"updatedAt": "2023-02-24T14:20:35.942Z",
-								"environment": {
-									"sys": {
-										"id": "master",
-										"type": "Link",
-										"linkType": "Environment"
-									}
-								},
-								"revision": 1,
-								"locale": "ru-RU"
-							}
-						},
-						"image": {
-							"title": "IMG-1642",
-							"description": "",
-							"file": {
-								"url": "//images.ctfassets.net/1vay05tm7yg4/2mUSFWJgEBNTHsBlIoiWnI/4d5113d471e28b74734afe9346fefc02/IMG-1642.jpg",
-								"details": {
-									"size": 1426012,
-									"image": {
-										"width": 1920,
-										"height": 1079
-									}
-								},
-								"fileName": "IMG-1642.jpg",
-								"contentType": "image/jpeg"
-							},
-							"metadata": {
-								"tags": []
-							},
-							"sys": {
-								"space": {
-									"sys": {
-										"type": "Link",
-										"linkType": "Space",
-										"id": "bowp6b58zrrn"
-									}
-								},
-								"id": "4vyv1Hsrf17vezj7MAhxtO",
-								"type": "Asset",
-								"createdAt": "2023-02-24T14:21:21.143Z",
-								"updatedAt": "2023-02-24T14:21:21.143Z",
-								"environment": {
-									"sys": {
-										"id": "master",
-										"type": "Link",
-										"linkType": "Environment"
-									}
-								},
-								"revision": 1,
-								"locale": "ru-RU"
-							}
-						},
-						"metadata": {
-							"tags": []
-						},
-						"sys": {
-							"space": {
-								"sys": {
-									"type": "Link",
-									"linkType": "Space",
-									"id": "bowp6b58zrrn"
-								}
-							},
-							"id": "Thk1kOPyxBJLkSlm4qOQp",
-							"type": "Entry",
-							"createdAt": "2023-02-24T14:21:28.382Z",
-							"updatedAt": "2023-02-28T03:05:57.046Z",
-							"environment": {
-								"sys": {
-									"id": "master",
-									"type": "Link",
-									"linkType": "Environment"
-								}
-							},
-							"revision": 3,
-							"contentType": {
-								"sys": {
-									"type": "Link",
-									"linkType": "ContentType",
-									"id": "day"
-								}
-							},
-							"locale": "ru-RU"
-						}
-					},
-					{
-						"title": "День 4 - Легендарный Чуйский тракт",
+						"title": "День 2 - Легендарный Чуйский тракт",
 						"description_short": "Сегодня мы проедем по самой красивой дороге России - Чуйскому Тракту за дальние перевалы, будем останавливаться на смотровых площадках и в сакральных местах силы",
 						"description_long": {
 							"nodeType": "document",
@@ -19108,7 +18515,7 @@ export const allTours = [
 						}
 					},
 					{
-						"title": "День 5 - Марсианские пейзажи Горного Алтая",
+						"title": "День 3 - Марсианские пейзажи Горного Алтая",
 						"description_short": "Одновременно побывать и на Марсе, и на Диком Западе - это мечта, которую мы осуществим в нашем путешествии",
 						"description_long": {
 							"nodeType": "document",
@@ -19405,7 +18812,7 @@ export const allTours = [
 						}
 					},
 					{
-						"title": "День 6 - Путешествие в Долину реки Чулышман",
+						"title": "День 4 - Путешествие в Долину реки Чулышман",
 						"description_short": "Встретив первые лучи солнца, мы отправимся в путь по Улаганскому тракту вдоль живописных озёр, тайги и высокогорной тундры к перевалу Кату-Ярык",
 						"description_long": {
 							"nodeType": "document",
@@ -19738,7 +19145,7 @@ export const allTours = [
 						}
 					},
 					{
-						"title": "День 7 - Урочище Аккурум и Каменные грибы",
+						"title": "День 5 - Урочище Аккурум и Каменные грибы",
 						"description_short": "Сегодня мы побываем в урочище Аккурум, увидим Каменные изваяния, напоминающие гигантские Грибы - поистине фантастическое создание самой природы",
 						"description_long": {
 							"nodeType": "document",
@@ -19999,7 +19406,7 @@ export const allTours = [
 						}
 					},
 					{
-						"title": "День 8 - Сокровища Телецкого озера",
+						"title": "День 6 - Сокровища Телецкого озера",
 						"description_short": "Наши приключения продолжаются. Нам предстоит путешествие на скоростном катере по священному для алтайцев Телецкому озеру с его южного берега на северный до села Артыбаш",
 						"description_long": {
 							"nodeType": "document",
@@ -20332,7 +19739,7 @@ export const allTours = [
 						}
 					},
 					{
-						"title": "День 9 - Прощание с Горным Алтаем",
+						"title": "День 7 - Прощание с Горным Алтаем",
 						"description_short": "В заключительный день нашего путешествия по весеннему Алтаю мы отправимся в аэропорт, где нам предстоит попрощаться с Горным Алтаем  и новыми друзьями.",
 						"description_long": {
 							"data": {},
@@ -20514,1102 +19921,6 @@ export const allTours = [
 				}
 			},
 			{
-				"title": "Карта путешествия",
-				"description": {
-					"data": {},
-					"content": [
-						{
-							"data": {},
-							"content": [
-								{
-									"data": {},
-									"marks": [
-										{
-											"type": "bold"
-										}
-									],
-									"value": "Наш маршрут:",
-									"nodeType": "text"
-								}
-							],
-							"nodeType": "paragraph"
-						},
-						{
-							"data": {},
-							"content": [
-								{
-									"data": {},
-									"marks": [],
-									"value": "Горно-Алтайск - Чемальский район - Уймонская долина - Мультинские озёра - Чуйский тракт - Гейзерное озеро - Алтайский Марс - Чуйская степь и село Кош-Агач - Перевал Кату-Ярык - Долина реки Чулышман - Водопад Куркуре - Каменные грибы - Телецкое озеро - Горно-Алтайск.",
-									"nodeType": "text"
-								}
-							],
-							"nodeType": "paragraph"
-						}
-					],
-					"nodeType": "document"
-				},
-				"images": [
-					{
-						"title": "Кругосветка",
-						"description": "",
-						"file": {
-							"url": "//images.ctfassets.net/1vay05tm7yg4/LeKDBU5kYm4i0yS77aGkF/9290041aebefa6e3a797ad394785e821/___________.jpg",
-							"details": {
-								"size": 1065821,
-								"image": {
-									"width": 1339,
-									"height": 1080
-								}
-							},
-							"fileName": "Кругосветка.jpg",
-							"contentType": "image/jpeg"
-						},
-						"metadata": {
-							"tags": []
-						},
-						"sys": {
-							"space": {
-								"sys": {
-									"type": "Link",
-									"linkType": "Space",
-									"id": "bowp6b58zrrn"
-								}
-							},
-							"id": "LeKDBU5kYm4i0yS77aGkF",
-							"type": "Asset",
-							"createdAt": "2023-03-22T16:07:55.822Z",
-							"updatedAt": "2023-03-22T16:07:55.822Z",
-							"environment": {
-								"sys": {
-									"id": "master",
-									"type": "Link",
-									"linkType": "Environment"
-								}
-							},
-							"revision": 1,
-							"locale": "ru-RU"
-						}
-					},
-					{
-						"title": "IMG-5808",
-						"description": "",
-						"file": {
-							"url": "//images.ctfassets.net/1vay05tm7yg4/7yDVStrpeCmQ410OFsHkcm/96f59b8904be15e7ff68c5e436fbd025/IMG-5808.jpg",
-							"details": {
-								"size": 1810318,
-								"image": {
-									"width": 1920,
-									"height": 1080
-								}
-							},
-							"fileName": "IMG-5808.jpg",
-							"contentType": "image/jpeg"
-						},
-						"metadata": {
-							"tags": []
-						},
-						"sys": {
-							"space": {
-								"sys": {
-									"type": "Link",
-									"linkType": "Space",
-									"id": "bowp6b58zrrn"
-								}
-							},
-							"id": "7yDVStrpeCmQ410OFsHkcm",
-							"type": "Asset",
-							"createdAt": "2023-03-22T16:09:00.006Z",
-							"updatedAt": "2023-03-22T16:09:00.006Z",
-							"environment": {
-								"sys": {
-									"id": "master",
-									"type": "Link",
-									"linkType": "Environment"
-								}
-							},
-							"revision": 1,
-							"locale": "ru-RU"
-						}
-					},
-					{
-						"title": "IMG-9374",
-						"description": "",
-						"file": {
-							"url": "//images.ctfassets.net/1vay05tm7yg4/1zJka8CofDgLU9wbGFRYWX/55550870605c9e73dfc67d25515ad256/IMG-9374.jpg",
-							"details": {
-								"size": 1916027,
-								"image": {
-									"width": 1920,
-									"height": 1080
-								}
-							},
-							"fileName": "IMG-9374.jpg",
-							"contentType": "image/jpeg"
-						},
-						"metadata": {
-							"tags": []
-						},
-						"sys": {
-							"space": {
-								"sys": {
-									"type": "Link",
-									"linkType": "Space",
-									"id": "bowp6b58zrrn"
-								}
-							},
-							"id": "1zJka8CofDgLU9wbGFRYWX",
-							"type": "Asset",
-							"createdAt": "2023-03-22T16:14:52.211Z",
-							"updatedAt": "2023-03-22T16:14:52.211Z",
-							"environment": {
-								"sys": {
-									"id": "master",
-									"type": "Link",
-									"linkType": "Environment"
-								}
-							},
-							"revision": 1,
-							"locale": "ru-RU"
-						}
-					},
-					{
-						"title": "IMG-9476",
-						"description": "",
-						"file": {
-							"url": "//images.ctfassets.net/1vay05tm7yg4/66ShGHKL3CFzpDT32ragl/f225e67f8b48bed1065d6597b82b308a/IMG-9476.jpg",
-							"details": {
-								"size": 1403576,
-								"image": {
-									"width": 1920,
-									"height": 1080
-								}
-							},
-							"fileName": "IMG-9476.jpg",
-							"contentType": "image/jpeg"
-						},
-						"metadata": {
-							"tags": []
-						},
-						"sys": {
-							"space": {
-								"sys": {
-									"type": "Link",
-									"linkType": "Space",
-									"id": "bowp6b58zrrn"
-								}
-							},
-							"id": "66ShGHKL3CFzpDT32ragl",
-							"type": "Asset",
-							"createdAt": "2023-03-22T16:15:22.657Z",
-							"updatedAt": "2023-03-22T16:15:22.657Z",
-							"environment": {
-								"sys": {
-									"id": "master",
-									"type": "Link",
-									"linkType": "Environment"
-								}
-							},
-							"revision": 1,
-							"locale": "ru-RU"
-						}
-					},
-					{
-						"title": "IMG-9545",
-						"description": "",
-						"file": {
-							"url": "//images.ctfassets.net/1vay05tm7yg4/5wHBmg7KfhIloMJJwYzoni/a87c84bc78a5242e83e7a43e02d10e72/IMG-9545.jpg",
-							"details": {
-								"size": 1532573,
-								"image": {
-									"width": 1920,
-									"height": 1080
-								}
-							},
-							"fileName": "IMG-9545.jpg",
-							"contentType": "image/jpeg"
-						},
-						"metadata": {
-							"tags": []
-						},
-						"sys": {
-							"space": {
-								"sys": {
-									"type": "Link",
-									"linkType": "Space",
-									"id": "bowp6b58zrrn"
-								}
-							},
-							"id": "5wHBmg7KfhIloMJJwYzoni",
-							"type": "Asset",
-							"createdAt": "2023-03-22T16:15:49.353Z",
-							"updatedAt": "2023-03-22T16:15:49.353Z",
-							"environment": {
-								"sys": {
-									"id": "master",
-									"type": "Link",
-									"linkType": "Environment"
-								}
-							},
-							"revision": 1,
-							"locale": "ru-RU"
-						}
-					},
-					{
-						"title": "IMG-1886",
-						"description": "",
-						"file": {
-							"url": "//images.ctfassets.net/1vay05tm7yg4/36XNDldcvoZMWaaACQMUG8/7fd74d014abdf9ad3d0f3306943d70df/IMG-1886.jpg",
-							"details": {
-								"size": 1427308,
-								"image": {
-									"width": 1920,
-									"height": 1080
-								}
-							},
-							"fileName": "IMG-1886.jpg",
-							"contentType": "image/jpeg"
-						},
-						"metadata": {
-							"tags": []
-						},
-						"sys": {
-							"space": {
-								"sys": {
-									"type": "Link",
-									"linkType": "Space",
-									"id": "bowp6b58zrrn"
-								}
-							},
-							"id": "36XNDldcvoZMWaaACQMUG8",
-							"type": "Asset",
-							"createdAt": "2023-03-22T16:16:26.016Z",
-							"updatedAt": "2023-03-22T16:16:26.016Z",
-							"environment": {
-								"sys": {
-									"id": "master",
-									"type": "Link",
-									"linkType": "Environment"
-								}
-							},
-							"revision": 1,
-							"locale": "ru-RU"
-						}
-					},
-					{
-						"title": "IMG-1324",
-						"description": "",
-						"file": {
-							"url": "//images.ctfassets.net/1vay05tm7yg4/3g3r5PYISx45LOy7AHnt4j/87c68db1621c9d5860d3c2d39686fe13/IMG-1324.jpg",
-							"details": {
-								"size": 2030253,
-								"image": {
-									"width": 1920,
-									"height": 1080
-								}
-							},
-							"fileName": "IMG-1324.jpg",
-							"contentType": "image/jpeg"
-						},
-						"metadata": {
-							"tags": []
-						},
-						"sys": {
-							"space": {
-								"sys": {
-									"type": "Link",
-									"linkType": "Space",
-									"id": "bowp6b58zrrn"
-								}
-							},
-							"id": "3g3r5PYISx45LOy7AHnt4j",
-							"type": "Asset",
-							"createdAt": "2023-03-22T16:16:54.721Z",
-							"updatedAt": "2023-03-22T16:16:54.721Z",
-							"environment": {
-								"sys": {
-									"id": "master",
-									"type": "Link",
-									"linkType": "Environment"
-								}
-							},
-							"revision": 1,
-							"locale": "ru-RU"
-						}
-					},
-					{
-						"title": "IMG-1327",
-						"description": "",
-						"file": {
-							"url": "//images.ctfassets.net/1vay05tm7yg4/4tNMoDDek70q31Lw4ebuxt/c6c3d73da63925ad4cf7d1244983bf39/IMG-1327.jpg",
-							"details": {
-								"size": 1329929,
-								"image": {
-									"width": 1920,
-									"height": 1080
-								}
-							},
-							"fileName": "IMG-1327.jpg",
-							"contentType": "image/jpeg"
-						},
-						"metadata": {
-							"tags": []
-						},
-						"sys": {
-							"space": {
-								"sys": {
-									"type": "Link",
-									"linkType": "Space",
-									"id": "bowp6b58zrrn"
-								}
-							},
-							"id": "4tNMoDDek70q31Lw4ebuxt",
-							"type": "Asset",
-							"createdAt": "2023-03-22T16:17:20.051Z",
-							"updatedAt": "2023-03-22T16:17:20.051Z",
-							"environment": {
-								"sys": {
-									"id": "master",
-									"type": "Link",
-									"linkType": "Environment"
-								}
-							},
-							"revision": 1,
-							"locale": "ru-RU"
-						}
-					},
-					{
-						"title": "IMG-1374",
-						"description": "",
-						"file": {
-							"url": "//images.ctfassets.net/1vay05tm7yg4/5URLIkQ7nUZWSPargVWoSJ/395bde6a182879feefd2aafcbc77ae3d/IMG-1374.jpg",
-							"details": {
-								"size": 1751040,
-								"image": {
-									"width": 1920,
-									"height": 1080
-								}
-							},
-							"fileName": "IMG-1374.jpg",
-							"contentType": "image/jpeg"
-						},
-						"metadata": {
-							"tags": []
-						},
-						"sys": {
-							"space": {
-								"sys": {
-									"type": "Link",
-									"linkType": "Space",
-									"id": "bowp6b58zrrn"
-								}
-							},
-							"id": "5URLIkQ7nUZWSPargVWoSJ",
-							"type": "Asset",
-							"createdAt": "2023-03-22T16:17:51.070Z",
-							"updatedAt": "2023-03-22T16:17:51.070Z",
-							"environment": {
-								"sys": {
-									"id": "master",
-									"type": "Link",
-									"linkType": "Environment"
-								}
-							},
-							"revision": 1,
-							"locale": "ru-RU"
-						}
-					},
-					{
-						"title": "IMG-1408",
-						"description": "",
-						"file": {
-							"url": "//images.ctfassets.net/1vay05tm7yg4/5jrBGJpvdKfCkLjjpZSHRs/6d52805e07e108da09e9e9d8c0288262/IMG-1408.jpg",
-							"details": {
-								"size": 1282141,
-								"image": {
-									"width": 1920,
-									"height": 1080
-								}
-							},
-							"fileName": "IMG-1408.jpg",
-							"contentType": "image/jpeg"
-						},
-						"metadata": {
-							"tags": []
-						},
-						"sys": {
-							"space": {
-								"sys": {
-									"type": "Link",
-									"linkType": "Space",
-									"id": "bowp6b58zrrn"
-								}
-							},
-							"id": "5jrBGJpvdKfCkLjjpZSHRs",
-							"type": "Asset",
-							"createdAt": "2023-03-22T16:18:16.521Z",
-							"updatedAt": "2023-03-22T16:18:16.521Z",
-							"environment": {
-								"sys": {
-									"id": "master",
-									"type": "Link",
-									"linkType": "Environment"
-								}
-							},
-							"revision": 1,
-							"locale": "ru-RU"
-						}
-					},
-					{
-						"title": "IMG-1642",
-						"description": "",
-						"file": {
-							"url": "//images.ctfassets.net/1vay05tm7yg4/2mUSFWJgEBNTHsBlIoiWnI/4d5113d471e28b74734afe9346fefc02/IMG-1642.jpg",
-							"details": {
-								"size": 1426012,
-								"image": {
-									"width": 1920,
-									"height": 1079
-								}
-							},
-							"fileName": "IMG-1642.jpg",
-							"contentType": "image/jpeg"
-						},
-						"metadata": {
-							"tags": []
-						},
-						"sys": {
-							"space": {
-								"sys": {
-									"type": "Link",
-									"linkType": "Space",
-									"id": "bowp6b58zrrn"
-								}
-							},
-							"id": "2mUSFWJgEBNTHsBlIoiWnI",
-							"type": "Asset",
-							"createdAt": "2023-03-22T16:18:42.719Z",
-							"updatedAt": "2023-03-22T16:18:42.719Z",
-							"environment": {
-								"sys": {
-									"id": "master",
-									"type": "Link",
-									"linkType": "Environment"
-								}
-							},
-							"revision": 1,
-							"locale": "ru-RU"
-						}
-					},
-					{
-						"title": "IMG-9738",
-						"description": "",
-						"file": {
-							"url": "//images.ctfassets.net/1vay05tm7yg4/qgjIXDgxym7CAfxOZyJNl/942ea0cb160caab9351716e03abc80f2/IMG-9738.jpg",
-							"details": {
-								"size": 1841630,
-								"image": {
-									"width": 1920,
-									"height": 1080
-								}
-							},
-							"fileName": "IMG-9738.jpg",
-							"contentType": "image/jpeg"
-						},
-						"metadata": {
-							"tags": []
-						},
-						"sys": {
-							"space": {
-								"sys": {
-									"type": "Link",
-									"linkType": "Space",
-									"id": "bowp6b58zrrn"
-								}
-							},
-							"id": "qgjIXDgxym7CAfxOZyJNl",
-							"type": "Asset",
-							"createdAt": "2023-03-22T16:19:19.760Z",
-							"updatedAt": "2023-03-22T16:19:19.760Z",
-							"environment": {
-								"sys": {
-									"id": "master",
-									"type": "Link",
-									"linkType": "Environment"
-								}
-							},
-							"revision": 1,
-							"locale": "ru-RU"
-						}
-					},
-					{
-						"title": "IMG-3712",
-						"description": "",
-						"file": {
-							"url": "//images.ctfassets.net/1vay05tm7yg4/2WVsaEkLbPPtqr5sU79yIS/aaa446eb4990c584ee62d7b36eb26b6c/IMG-3712.jpg",
-							"details": {
-								"size": 1522871,
-								"image": {
-									"width": 1920,
-									"height": 1081
-								}
-							},
-							"fileName": "IMG-3712.jpg",
-							"contentType": "image/jpeg"
-						},
-						"metadata": {
-							"tags": []
-						},
-						"sys": {
-							"space": {
-								"sys": {
-									"type": "Link",
-									"linkType": "Space",
-									"id": "bowp6b58zrrn"
-								}
-							},
-							"id": "2WVsaEkLbPPtqr5sU79yIS",
-							"type": "Asset",
-							"createdAt": "2023-03-22T16:19:58.278Z",
-							"updatedAt": "2023-03-22T16:19:58.278Z",
-							"environment": {
-								"sys": {
-									"id": "master",
-									"type": "Link",
-									"linkType": "Environment"
-								}
-							},
-							"revision": 1,
-							"locale": "ru-RU"
-						}
-					},
-					{
-						"title": "IMG-7451",
-						"description": "",
-						"file": {
-							"url": "//images.ctfassets.net/1vay05tm7yg4/13PZrrAI1CytiLEIZkLPh6/8c460103e51132331cab5698172ff2dc/IMG-7451.jpg",
-							"details": {
-								"size": 1650302,
-								"image": {
-									"width": 1920,
-									"height": 1079
-								}
-							},
-							"fileName": "IMG-7451.jpg",
-							"contentType": "image/jpeg"
-						},
-						"metadata": {
-							"tags": []
-						},
-						"sys": {
-							"space": {
-								"sys": {
-									"type": "Link",
-									"linkType": "Space",
-									"id": "bowp6b58zrrn"
-								}
-							},
-							"id": "13PZrrAI1CytiLEIZkLPh6",
-							"type": "Asset",
-							"createdAt": "2023-03-22T16:20:45.279Z",
-							"updatedAt": "2023-03-22T16:20:45.279Z",
-							"environment": {
-								"sys": {
-									"id": "master",
-									"type": "Link",
-									"linkType": "Environment"
-								}
-							},
-							"revision": 1,
-							"locale": "ru-RU"
-						}
-					},
-					{
-						"title": "IMG-3192!",
-						"description": "",
-						"file": {
-							"url": "//images.ctfassets.net/1vay05tm7yg4/J45YsMfb6vPkw0cpbNPf8/57681d1ba099004a3a2417bc8897d382/IMG-3192_.jpg",
-							"details": {
-								"size": 1420275,
-								"image": {
-									"width": 1920,
-									"height": 1080
-								}
-							},
-							"fileName": "IMG-3192!.jpg",
-							"contentType": "image/jpeg"
-						},
-						"metadata": {
-							"tags": []
-						},
-						"sys": {
-							"space": {
-								"sys": {
-									"type": "Link",
-									"linkType": "Space",
-									"id": "bowp6b58zrrn"
-								}
-							},
-							"id": "J45YsMfb6vPkw0cpbNPf8",
-							"type": "Asset",
-							"createdAt": "2023-03-22T16:21:33.504Z",
-							"updatedAt": "2023-03-22T16:21:33.504Z",
-							"environment": {
-								"sys": {
-									"id": "master",
-									"type": "Link",
-									"linkType": "Environment"
-								}
-							},
-							"revision": 1,
-							"locale": "ru-RU"
-						}
-					},
-					{
-						"title": "IMG-5691-(1)",
-						"description": "",
-						"file": {
-							"url": "//images.ctfassets.net/1vay05tm7yg4/3MgfkCxvrIlPsqV4EdNxMe/00030fb8ad7a3c670e307669ca205cb4/IMG-5691-_1_.jpg",
-							"details": {
-								"size": 1606258,
-								"image": {
-									"width": 1920,
-									"height": 1080
-								}
-							},
-							"fileName": "IMG-5691-(1).jpg",
-							"contentType": "image/jpeg"
-						},
-						"metadata": {
-							"tags": []
-						},
-						"sys": {
-							"space": {
-								"sys": {
-									"type": "Link",
-									"linkType": "Space",
-									"id": "bowp6b58zrrn"
-								}
-							},
-							"id": "3MgfkCxvrIlPsqV4EdNxMe",
-							"type": "Asset",
-							"createdAt": "2023-03-22T16:22:08.598Z",
-							"updatedAt": "2023-03-22T16:22:08.598Z",
-							"environment": {
-								"sys": {
-									"id": "master",
-									"type": "Link",
-									"linkType": "Environment"
-								}
-							},
-							"revision": 1,
-							"locale": "ru-RU"
-						}
-					},
-					{
-						"title": "IMG-5607",
-						"description": "",
-						"file": {
-							"url": "//images.ctfassets.net/1vay05tm7yg4/4Cnm1DK7YRrq6b3GjUwzE4/2425cf8955cbaaa5795a9d24f63ffd1a/IMG-5607.jpg",
-							"details": {
-								"size": 1957561,
-								"image": {
-									"width": 1920,
-									"height": 1080
-								}
-							},
-							"fileName": "IMG-5607.jpg",
-							"contentType": "image/jpeg"
-						},
-						"metadata": {
-							"tags": []
-						},
-						"sys": {
-							"space": {
-								"sys": {
-									"type": "Link",
-									"linkType": "Space",
-									"id": "bowp6b58zrrn"
-								}
-							},
-							"id": "4Cnm1DK7YRrq6b3GjUwzE4",
-							"type": "Asset",
-							"createdAt": "2023-03-22T16:22:36.480Z",
-							"updatedAt": "2023-03-22T16:22:36.480Z",
-							"environment": {
-								"sys": {
-									"id": "master",
-									"type": "Link",
-									"linkType": "Environment"
-								}
-							},
-							"revision": 1,
-							"locale": "ru-RU"
-						}
-					},
-					{
-						"title": "IMG-3236",
-						"description": "",
-						"file": {
-							"url": "//images.ctfassets.net/1vay05tm7yg4/1jiBOdGl9ZeQBS4ld4z8HG/3ccd7885054ad8393f0fa81b95bb1eca/IMG-3236.jpg",
-							"details": {
-								"size": 1595095,
-								"image": {
-									"width": 1920,
-									"height": 1080
-								}
-							},
-							"fileName": "IMG-3236.jpg",
-							"contentType": "image/jpeg"
-						},
-						"metadata": {
-							"tags": []
-						},
-						"sys": {
-							"space": {
-								"sys": {
-									"type": "Link",
-									"linkType": "Space",
-									"id": "bowp6b58zrrn"
-								}
-							},
-							"id": "1jiBOdGl9ZeQBS4ld4z8HG",
-							"type": "Asset",
-							"createdAt": "2023-03-22T16:23:18.968Z",
-							"updatedAt": "2023-03-22T16:23:18.968Z",
-							"environment": {
-								"sys": {
-									"id": "master",
-									"type": "Link",
-									"linkType": "Environment"
-								}
-							},
-							"revision": 1,
-							"locale": "ru-RU"
-						}
-					},
-					{
-						"title": "IMG-0798",
-						"description": "",
-						"file": {
-							"url": "//images.ctfassets.net/1vay05tm7yg4/1GlLIwm2khSsFoqGw2mteW/a150eb41dcc812c8dff653b8d89a72fd/IMG-0798.jpg",
-							"details": {
-								"size": 2015051,
-								"image": {
-									"width": 1920,
-									"height": 1080
-								}
-							},
-							"fileName": "IMG-0798.jpg",
-							"contentType": "image/jpeg"
-						},
-						"metadata": {
-							"tags": []
-						},
-						"sys": {
-							"space": {
-								"sys": {
-									"type": "Link",
-									"linkType": "Space",
-									"id": "bowp6b58zrrn"
-								}
-							},
-							"id": "1GlLIwm2khSsFoqGw2mteW",
-							"type": "Asset",
-							"createdAt": "2023-03-22T16:24:20.205Z",
-							"updatedAt": "2023-03-22T16:24:20.205Z",
-							"environment": {
-								"sys": {
-									"id": "master",
-									"type": "Link",
-									"linkType": "Environment"
-								}
-							},
-							"revision": 1,
-							"locale": "ru-RU"
-						}
-					},
-					{
-						"title": "IMG-1708",
-						"description": "",
-						"file": {
-							"url": "//images.ctfassets.net/1vay05tm7yg4/6HjVNCecLGdnVkm0kqv4M0/59c9879fd516683439c316b253ee579c/IMG-1708.jpg",
-							"details": {
-								"size": 1912542,
-								"image": {
-									"width": 1920,
-									"height": 1080
-								}
-							},
-							"fileName": "IMG-1708.jpg",
-							"contentType": "image/jpeg"
-						},
-						"metadata": {
-							"tags": []
-						},
-						"sys": {
-							"space": {
-								"sys": {
-									"type": "Link",
-									"linkType": "Space",
-									"id": "bowp6b58zrrn"
-								}
-							},
-							"id": "6HjVNCecLGdnVkm0kqv4M0",
-							"type": "Asset",
-							"createdAt": "2023-03-22T16:25:00.779Z",
-							"updatedAt": "2023-03-22T16:25:00.779Z",
-							"environment": {
-								"sys": {
-									"id": "master",
-									"type": "Link",
-									"linkType": "Environment"
-								}
-							},
-							"revision": 1,
-							"locale": "ru-RU"
-						}
-					},
-					{
-						"title": "IMG-3287",
-						"description": "",
-						"file": {
-							"url": "//images.ctfassets.net/1vay05tm7yg4/492uBQtFUYZ2zm1zr01aaj/bb0d3d2df7409d44175326bdcc6199b6/IMG-3287.jpg",
-							"details": {
-								"size": 1363827,
-								"image": {
-									"width": 1920,
-									"height": 1080
-								}
-							},
-							"fileName": "IMG-3287.jpg",
-							"contentType": "image/jpeg"
-						},
-						"metadata": {
-							"tags": []
-						},
-						"sys": {
-							"space": {
-								"sys": {
-									"type": "Link",
-									"linkType": "Space",
-									"id": "bowp6b58zrrn"
-								}
-							},
-							"id": "492uBQtFUYZ2zm1zr01aaj",
-							"type": "Asset",
-							"createdAt": "2023-03-22T16:26:04.984Z",
-							"updatedAt": "2023-03-22T16:26:04.984Z",
-							"environment": {
-								"sys": {
-									"id": "master",
-									"type": "Link",
-									"linkType": "Environment"
-								}
-							},
-							"revision": 1,
-							"locale": "ru-RU"
-						}
-					},
-					{
-						"title": "Depositphotos 121685410 xl-2015-(1)",
-						"description": "",
-						"file": {
-							"url": "//images.ctfassets.net/1vay05tm7yg4/7pZGByUQbOmXaN92Yngkmm/a73ebd67e48366b797186e0fb02ccc2e/Depositphotos_121685410_xl-2015-_1_.jpg",
-							"details": {
-								"size": 2663201,
-								"image": {
-									"width": 1920,
-									"height": 1080
-								}
-							},
-							"fileName": "Depositphotos_121685410_xl-2015-(1).jpg",
-							"contentType": "image/jpeg"
-						},
-						"metadata": {
-							"tags": []
-						},
-						"sys": {
-							"space": {
-								"sys": {
-									"type": "Link",
-									"linkType": "Space",
-									"id": "bowp6b58zrrn"
-								}
-							},
-							"id": "7pZGByUQbOmXaN92Yngkmm",
-							"type": "Asset",
-							"createdAt": "2023-03-22T16:28:22.289Z",
-							"updatedAt": "2023-03-22T16:28:22.289Z",
-							"environment": {
-								"sys": {
-									"id": "master",
-									"type": "Link",
-									"linkType": "Environment"
-								}
-							},
-							"revision": 1,
-							"locale": "ru-RU"
-						}
-					},
-					{
-						"title": "IMG-1282",
-						"description": "",
-						"file": {
-							"url": "//images.ctfassets.net/1vay05tm7yg4/2auADNXhiQXYHtHgyUuhEH/d4e6f99a03bf5f5a8b78a839ba2c0209/IMG-1282.jpg",
-							"details": {
-								"size": 1153569,
-								"image": {
-									"width": 1920,
-									"height": 1080
-								}
-							},
-							"fileName": "IMG-1282.jpg",
-							"contentType": "image/jpeg"
-						},
-						"metadata": {
-							"tags": []
-						},
-						"sys": {
-							"space": {
-								"sys": {
-									"type": "Link",
-									"linkType": "Space",
-									"id": "bowp6b58zrrn"
-								}
-							},
-							"id": "2auADNXhiQXYHtHgyUuhEH",
-							"type": "Asset",
-							"createdAt": "2023-03-22T16:26:42.630Z",
-							"updatedAt": "2023-03-22T16:26:42.630Z",
-							"environment": {
-								"sys": {
-									"id": "master",
-									"type": "Link",
-									"linkType": "Environment"
-								}
-							},
-							"revision": 1,
-							"locale": "ru-RU"
-						}
-					},
-					{
-						"title": "IMG-3492",
-						"description": "",
-						"file": {
-							"url": "//images.ctfassets.net/1vay05tm7yg4/5WPu08U5vqbCVkzeW9AjKN/8380809ecbaee44be437bd4f23c1d842/IMG-3492.jpg",
-							"details": {
-								"size": 2230824,
-								"image": {
-									"width": 1920,
-									"height": 1080
-								}
-							},
-							"fileName": "IMG-3492.jpg",
-							"contentType": "image/jpeg"
-						},
-						"metadata": {
-							"tags": []
-						},
-						"sys": {
-							"space": {
-								"sys": {
-									"type": "Link",
-									"linkType": "Space",
-									"id": "bowp6b58zrrn"
-								}
-							},
-							"id": "5WPu08U5vqbCVkzeW9AjKN",
-							"type": "Asset",
-							"createdAt": "2023-03-22T16:27:34.710Z",
-							"updatedAt": "2023-03-22T16:27:34.710Z",
-							"environment": {
-								"sys": {
-									"id": "master",
-									"type": "Link",
-									"linkType": "Environment"
-								}
-							},
-							"revision": 1,
-							"locale": "ru-RU"
-						}
-					},
-					{
-						"title": "Depositphotos 163362416 xl-2015-(1)",
-						"description": "",
-						"file": {
-							"url": "//images.ctfassets.net/1vay05tm7yg4/3PjsXEWyTiuULEuaOGCDIm/800dc5630c70092e1b0657ebbe958e61/Depositphotos_163362416_xl-2015-_1_.jpg",
-							"details": {
-								"size": 1820940,
-								"image": {
-									"width": 1920,
-									"height": 1080
-								}
-							},
-							"fileName": "Depositphotos_163362416_xl-2015-(1).jpg",
-							"contentType": "image/jpeg"
-						},
-						"metadata": {
-							"tags": []
-						},
-						"sys": {
-							"space": {
-								"sys": {
-									"type": "Link",
-									"linkType": "Space",
-									"id": "bowp6b58zrrn"
-								}
-							},
-							"id": "3PjsXEWyTiuULEuaOGCDIm",
-							"type": "Asset",
-							"createdAt": "2023-03-22T16:28:55.662Z",
-							"updatedAt": "2023-03-22T16:28:55.662Z",
-							"environment": {
-								"sys": {
-									"id": "master",
-									"type": "Link",
-									"linkType": "Environment"
-								}
-							},
-							"revision": 1,
-							"locale": "ru-RU"
-						}
-					}
-				],
-				"metadata": {
-					"tags": []
-				},
-				"sys": {
-					"space": {
-						"sys": {
-							"type": "Link",
-							"linkType": "Space",
-							"id": "bowp6b58zrrn"
-						}
-					},
-					"id": "14s72jdqJa7kJU22DWl1su",
-					"type": "Entry",
-					"createdAt": "2023-03-22T16:29:03.889Z",
-					"updatedAt": "2023-03-22T16:29:03.889Z",
-					"environment": {
-						"sys": {
-							"id": "master",
-							"type": "Link",
-							"linkType": "Environment"
-						}
-					},
-					"revision": 1,
-					"contentType": {
-						"sys": {
-							"type": "Link",
-							"linkType": "ContentType",
-							"id": "accomodation_section"
-						}
-					},
-					"locale": "ru-RU"
-				}
-			},
-			{
 				"title": "Где мы будем жить?",
 				"description": {
 					"nodeType": "document",
@@ -21675,7 +19986,7 @@ export const allTours = [
 												},
 												{
 													"nodeType": "text",
-													"value": " - гостевой дом в селе Чемал;\r",
+													"value": " - гостевой дом Чемал;\r",
 													"marks": [],
 													"data": {}
 												}
@@ -21703,7 +20014,7 @@ export const allTours = [
 												},
 												{
 													"nodeType": "text",
-													"value": "- турбаза в селе Замульта;\r",
+													"value": "- гостевой дом в селе Акташ;\r",
 													"marks": [],
 													"data": {}
 												}
@@ -21731,7 +20042,7 @@ export const allTours = [
 												},
 												{
 													"nodeType": "text",
-													"value": " - гостевой дом в селе Акташ;",
+													"value": " - турбаза в Долине Чулышман;",
 													"marks": [],
 													"data": {}
 												}
@@ -21749,7 +20060,7 @@ export const allTours = [
 											"content": [
 												{
 													"nodeType": "text",
-													"value": "6-я и 7-я ночи",
+													"value": "6-я ночь",
 													"marks": [
 														{
 															"type": "bold"
@@ -21759,7 +20070,7 @@ export const allTours = [
 												},
 												{
 													"nodeType": "text",
-													"value": " - турбаза в Долине реки Чулышман;\r",
+													"value": " - гостиница рядом с аэропортом;\r",
 													"marks": [],
 													"data": {}
 												}
@@ -21767,34 +20078,6 @@ export const allTours = [
 										}
 									]
 								},
-								{
-									"nodeType": "list-item",
-									"data": {},
-									"content": [
-										{
-											"nodeType": "paragraph",
-											"data": {},
-											"content": [
-												{
-													"nodeType": "text",
-													"value": "8-я ночь",
-													"marks": [
-														{
-															"type": "bold"
-														}
-													],
-													"data": {}
-												},
-												{
-													"nodeType": "text",
-													"value": " - гостиница в селе Майма рядом с аэропортом.",
-													"marks": [],
-													"data": {}
-												}
-											]
-										}
-									]
-								}
 							]
 						},
 						{
