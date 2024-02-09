@@ -1918,7 +1918,85 @@ export const homePage = {
 						"locale": "ru-RU"
 					}
 				},
-
+				{
+					"id": "Осенний тур",
+					"title": "\"Осенняя гармония горного Алтая\"            02.10 - 07.10 и ещё 4 даты.             Всё включено!            ",
+					"description": "Чемальский район - Чуйский тракт - Перевал Кату-Ярык - Алтайский Марс - Сакральное место силы Алтая",
+					"type": "tour",
+					"background": {
+						"title": "IMG-2922!",
+						"description": "",
+						"file": {
+							"url": "//images.ctfassets.net/1vay05tm7yg4/1GlLIwm2khSsFoqGw2mteW/a150eb41dcc812c8dff653b8d89a72fd/IMG-0798.jpg",
+							"details": {
+								"size": 1415482,
+								"image": {
+									"width": 1340,
+									"height": 1080
+								}
+							},
+							"fileName": "IMG-2922!.jpg",
+							"contentType": "image/jpeg"
+						},
+						"metadata": {
+							"tags": []
+						},
+						"sys": {
+							"space": {
+								"sys": {
+									"type": "Link",
+									"linkType": "Space",
+									"id": "bowp6b58zrrn"
+								}
+							},
+							"id": "24K4bWDCU3zBjhocDP7Ckg",
+							"type": "Asset",
+							"createdAt": "2023-03-13T04:07:16.766Z",
+							"updatedAt": "2023-03-13T04:07:16.766Z",
+							"environment": {
+								"sys": {
+									"id": "master",
+									"type": "Link",
+									"linkType": "Environment"
+								}
+							},
+							"revision": 1,
+							"locale": "ru-RU"
+						}
+					},
+					"metadata": {
+						"tags": []
+					},
+					"sys": {
+						"space": {
+							"sys": {
+								"type": "Link",
+								"linkType": "Space",
+								"id": "bowp6b58zrrn"
+							}
+						},
+						"id": "3oBFwK2jZUEMs2o9w3zmDW",
+						"type": "Entry",
+						"createdAt": "2023-02-03T14:16:24.607Z",
+						"updatedAt": "2023-04-21T12:33:56.894Z",
+						"environment": {
+							"sys": {
+								"id": "master",
+								"type": "Link",
+								"linkType": "Environment"
+							}
+						},
+						"revision": 28,
+						"contentType": {
+							"sys": {
+								"type": "Link",
+								"linkType": "ContentType",
+								"id": "tour_card"
+							}
+						},
+						"locale": "ru-RU"
+					}
+				},
 				{
 					"id": "Новый Год на Алтае",
 					"title": "\"Новый Год на Алтае\"            Декабрь-Январь.             Всё включено!            ",
@@ -2135,85 +2213,6 @@ export const homePage = {
 							}
 						},
 						"id": "3oBFwK2jZUEMs2o9w3zmD1",
-						"type": "Entry",
-						"createdAt": "2023-02-03T14:16:24.607Z",
-						"updatedAt": "2023-04-21T12:33:56.894Z",
-						"environment": {
-							"sys": {
-								"id": "master",
-								"type": "Link",
-								"linkType": "Environment"
-							}
-						},
-						"revision": 28,
-						"contentType": {
-							"sys": {
-								"type": "Link",
-								"linkType": "ContentType",
-								"id": "tour_card"
-							}
-						},
-						"locale": "ru-RU"
-					}
-				},
-				{
-					"id": "Осенний тур",
-					"title": "\"Осенняя гармония горного Алтая\"            02.10 - 07.10 и ещё 4 даты.             Всё включено!            ",
-					"description": "Чемальский район - Чуйский тракт - Перевал Кату-Ярык - Алтайский Марс - Сакральное место силы Алтая",
-					"type": "tour",
-					"background": {
-						"title": "IMG-2922!",
-						"description": "",
-						"file": {
-							"url": "//images.ctfassets.net/1vay05tm7yg4/1GlLIwm2khSsFoqGw2mteW/a150eb41dcc812c8dff653b8d89a72fd/IMG-0798.jpg",
-							"details": {
-								"size": 1415482,
-								"image": {
-									"width": 1340,
-									"height": 1080
-								}
-							},
-							"fileName": "IMG-2922!.jpg",
-							"contentType": "image/jpeg"
-						},
-						"metadata": {
-							"tags": []
-						},
-						"sys": {
-							"space": {
-								"sys": {
-									"type": "Link",
-									"linkType": "Space",
-									"id": "bowp6b58zrrn"
-								}
-							},
-							"id": "24K4bWDCU3zBjhocDP7Ckg",
-							"type": "Asset",
-							"createdAt": "2023-03-13T04:07:16.766Z",
-							"updatedAt": "2023-03-13T04:07:16.766Z",
-							"environment": {
-								"sys": {
-									"id": "master",
-									"type": "Link",
-									"linkType": "Environment"
-								}
-							},
-							"revision": 1,
-							"locale": "ru-RU"
-						}
-					},
-					"metadata": {
-						"tags": []
-					},
-					"sys": {
-						"space": {
-							"sys": {
-								"type": "Link",
-								"linkType": "Space",
-								"id": "bowp6b58zrrn"
-							}
-						},
-						"id": "3oBFwK2jZUEMs2o9w3zmDW",
 						"type": "Entry",
 						"createdAt": "2023-02-03T14:16:24.607Z",
 						"updatedAt": "2023-04-21T12:33:56.894Z",
