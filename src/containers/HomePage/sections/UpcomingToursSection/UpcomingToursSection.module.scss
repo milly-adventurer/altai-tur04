@@ -1,6 +1,6 @@
 .container {
 	@include container();
-	
+
 	padding-top: 50px;
 	padding-bottom: 50px;
 
@@ -17,7 +17,7 @@
 	margin-bottom: 50px;
 	color: $baseBlack;
 	font-size: 30px;
-	
+
 	@include mobile {
 		font-size: 26px;
 		margin-bottom: 40px;
@@ -42,14 +42,26 @@
 
 .tabTitle {
 	@include title();
-	
+
 	color: $baseBlack;
 	margin-bottom: 20px;
 	font-size: 25px;
-	
+
 	@include mobile {
 		font-size: 22px;
 	}
+}
+
+.tabProposal {
+	margin-top: 20px;
+	font-size: 18px;
+}
+
+.tabAccent {
+	position: relative;
+	display: inline-block;
+	color: red;
+	font-weight: 500;
 }
 
 .tab:not(:nth-child(1)) {

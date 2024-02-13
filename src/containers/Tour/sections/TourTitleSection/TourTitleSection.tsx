@@ -19,10 +19,10 @@ export interface TourTitleSectionProps extends CMSTourTitleSection {
 
 const TourTitleSection = (props: TourTitleSectionProps) => {
 	const { title, description, background, navigation, button_text } = props;
-	
+
 	const translations = useContext(commonTranslationContext);
 	const { discount_percent } = useContext(TourContext);
-	
+
 	const nav = navigation.anchors.map((anchor) => {
 		return {
 			...anchor,
@@ -46,6 +46,7 @@ const TourTitleSection = (props: TourTitleSectionProps) => {
 							{title}
 						</h1>
 						<p className={css.description}>{description}</p>
+						<p className={css.description}>Скидка 20% при раннем бронировании до 15 марта. На ВСЕ туры!</p>
 						<div className={css.buttonsWrapper}>
 							<Button
 								style={ButtonStyle.BRAND}

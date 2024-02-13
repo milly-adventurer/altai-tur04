@@ -24,9 +24,9 @@ const UpcomingToursSection = (props: UpcomingToursProps) => {
 	const { title, tours, CMSTourPrices, CMSExcursionPrices} = props;
 
 	const [eventExpanded, setEventExpanded] = useState({ [UpcomingTourType.TOUR]: false, [UpcomingTourType.EXCURSION]: false });
-	
+
 	const { device: { isMobile } } = useWindowSize();
-	
+
 	const renderTabs = useMemo(() => {
 		return (
 			Object.values(UpcomingTourType).map((tabType) => {
@@ -34,7 +34,12 @@ const UpcomingToursSection = (props: UpcomingToursProps) => {
 
 				return tabCards.length ? (
 					<div className={css.tab} key={tabType}>
-						<h4 className={css.tabTitle}>{tabTypeToName[tabType]}</h4>
+						<div className={css.tabTitle}>
+							{tabTypeToName[tabType]}
+							<div className={css.tabProposal}>
+								<span className={css.tabAccent}>Скидка 20%</span> при раннем бронировании до 15 марта. На <span className={css.tabAccent}>ВСЕ</span> туры!
+							</div>
+						</div>
 						<div className={css.toursContainer}>
 							{tabCards.map((tour) => {
 								let price: number | null;
@@ -73,11 +78,11 @@ const UpcomingToursSection = (props: UpcomingToursProps) => {
 			})
 		);
 	}, [tours, eventExpanded]);
-	
+
 	if (!tours.length) {
 		return null;
 	}
-	
+
 	return (
 		<section className={css.container} id={"туры"}>
 			{title && <h2 className={css.title}>{title}</h2>}
