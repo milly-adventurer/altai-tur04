@@ -30,12 +30,12 @@ const Form = (props: FormProps) => {
 		isBookForm,
 		form: { title, description, inputs, button_text, success_title, success_description },
 	} = props;
-	
+
 	const [isSubmitted, setIsSubmitted] = useState(false);
 	const [fieldsValue, setFieldsValue] = useState<{ type: FieldType, value?: string }[]>(inputs.map(({ type }) => ({
 		type,
 	})));
-	
+
 	const { basePrice, tourId } = useContext(TourContext);
 
 	const renderSuccessData = useMemo(() => {
@@ -46,13 +46,13 @@ const Form = (props: FormProps) => {
 			</div>
 		)
 	}, [success_title, success_description]);
-	
+
 	const onSubmit = (e: FormEvent<HTMLFormElement>) => {
 		e.preventDefault();
-		
+
 		const getField = getFieldValue(fieldsValue);
 
-			axios.post('https://u-on.millyadventurer8019.workers.dev/book', {
+			axios.post('https://functions.yandexcloud.net/d4esnhd0mrc84vb39o9k', {
 				email: getField(FieldType.EMAIL),
 				phone: getField(FieldType.PHONE),
 				name: getField(FieldType.NAME),
@@ -73,7 +73,7 @@ const Form = (props: FormProps) => {
 		const newFieldsValue = fieldsValue.map((field) => type === field.type ? { type, value } : field);
 		setFieldsValue(newFieldsValue);
 	};
-	
+
 	const handleClose = () => {
 		setIsSubmitted(false);
 		setFieldsValue(inputs.map(({ type }) => ({

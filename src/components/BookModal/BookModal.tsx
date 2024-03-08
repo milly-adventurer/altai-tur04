@@ -28,7 +28,7 @@ const BookModal = (props: BookModalProps) => {
 	const [email, setEmail] = useState('');
 	const [phone, setPhone] = useState('');
 	const [quantity, setQuantity] = useState(1);
-	
+
 	const price = (basePrice || 0) * quantity;
 	const priceWithDiscount = (price_with_discount || 0) * quantity
 
@@ -39,7 +39,7 @@ const BookModal = (props: BookModalProps) => {
 
 		if (email.trim().length) {
 			const calculatedPrice = priceWithDiscount || price;
-			axios.post('https://u-on.millyadventurer8019.workers.dev/book', { email, phone, name, price: calculatedPrice, quantity, tourId, date, formName: 'Бронь' });
+			axios.post('https://functions.yandexcloud.net/d4esnhd0mrc84vb39o9k', { email, phone, name, price: calculatedPrice, quantity, tourId, date, formName: 'Бронь' });
 			setIsSubmitted(true);
 			// @ts-ignore
 			window.ym?.(92641252, 'reachGoal', 'bookFormSent');
@@ -47,7 +47,7 @@ const BookModal = (props: BookModalProps) => {
 			window.ym?.(92641252, 'reachGoal', 'formSent');
 		}
 	};
-	
+
 	useEffect(() => {
 		(async () => {
 			const data = await cmsAPI.getBookForm();
@@ -68,7 +68,7 @@ const BookModal = (props: BookModalProps) => {
 		setIsSubmitted(false);
 		onClose?.();
 	}
-	
+
 	const onQuantityChange = (quantity: number) => {
 		if (quantity >= 1 && quantity <= 15) {
 			setQuantity(quantity);
