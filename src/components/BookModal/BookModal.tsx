@@ -39,7 +39,7 @@ const BookModal = (props: BookModalProps) => {
 
 		if (email.trim().length) {
 			const calculatedPrice = priceWithDiscount || price;
-			axios.post('https://functions.yandexcloud.net/d4esnhd0mrc84vb39o9k', { email, phone, name, price: calculatedPrice, quantity, tourId, date, formName: 'Бронь' });
+			axios.post('https://functions.yandexcloud.net/d4esnhd0mrc84vb39o9k', null, { params: {email, phone, name, price: calculatedPrice, quantity, tourId, date, formName: 'Бронь' }});
 			setIsSubmitted(true);
 			// @ts-ignore
 			window.ym?.(92641252, 'reachGoal', 'bookFormSent');

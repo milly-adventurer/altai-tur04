@@ -52,16 +52,20 @@ const Form = (props: FormProps) => {
 
 		const getField = getFieldValue(fieldsValue);
 
-			axios.post('https://functions.yandexcloud.net/d4esnhd0mrc84vb39o9k', {
-				email: getField(FieldType.EMAIL),
-				phone: getField(FieldType.PHONE),
-				name: getField(FieldType.NAME),
-				// price: basePrice,
-				date: formData?.date,
-				quantity: getField(FieldType.PEOPLE_NUMBER),
-				tourId: tourId,
-				formName: formData?.name,
-			});
+			axios.post('https://functions.yandexcloud.net/d4esnhd0mrc84vb39o9k', null,
+				{
+					params: {
+						email: getField(FieldType.EMAIL),
+						phone: getField(FieldType.PHONE),
+						name: getField(FieldType.NAME),
+						// price: basePrice,
+						date: formData?.date,
+						quantity: getField(FieldType.PEOPLE_NUMBER),
+						tourId: tourId,
+						formName: formData?.name,
+					}
+				}
+			);
 
 			setIsSubmitted(true);
 

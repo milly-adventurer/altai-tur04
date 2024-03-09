@@ -23,8 +23,8 @@ const UserInfoModal = (props: UserInfoModalProps) => {
 	const [isSubmitted, setIsSubmitted] = useState(false);
 	const onSubmit = (e: FormEvent<HTMLFormElement>) => {
 		e.preventDefault();
-		
-			axios.post('https://u-on.millyadventurer8019.workers.dev/callback', { phone });
+
+			axios.post('https://functions.yandexcloud.net/d4esnhd0mrc84vb39o9k', null, { params: {phone} });
 			setIsSubmitted(true);
 			// @ts-ignore
 			window.ym?.(92641252, 'reachGoal', 'callbackFormSent');
@@ -47,7 +47,7 @@ const UserInfoModal = (props: UserInfoModalProps) => {
 			</div>
 		)
 	}, [data]);
-	
+
 	const handleClose = () => {
 		setIsSubmitted(false);
 		onClose?.();
