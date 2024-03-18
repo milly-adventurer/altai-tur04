@@ -24,7 +24,7 @@ const UserInfoModal = (props: UserInfoModalProps) => {
 	const onSubmit = (e: FormEvent<HTMLFormElement>) => {
 		e.preventDefault();
 
-			axios.post('https://functions.yandexcloud.net/d4esnhd0mrc84vb39o9k', null, { params: {phone} });
+			axios.post('https://functions.yandexcloud.net/d4ej4p6rkjtduova4fkj', null, { params: {phone} });
 			setIsSubmitted(true);
 			// @ts-ignore
 			window.ym?.(92641252, 'reachGoal', 'callbackFormSent');

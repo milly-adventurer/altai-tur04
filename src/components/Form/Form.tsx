@@ -52,7 +52,7 @@ const Form = (props: FormProps) => {
 
 		const getField = getFieldValue(fieldsValue);
 
-			axios.post('https://functions.yandexcloud.net/d4esnhd0mrc84vb39o9k', null,
+			axios.post('https://functions.yandexcloud.net/d4ej4p6rkjtduova4fkj', null,
 				{
 					params: {
 						email: getField(FieldType.EMAIL),

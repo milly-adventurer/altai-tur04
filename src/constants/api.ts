@@ -1,1 +1,1 @@
-export const tripadvisorAPIEndpoint = 'https://functions.yandexcloud.net/d4e0rf6ps1l15ud9f04k';
+export const tripadvisorAPIEndpoint = 'https://functions.yandexcloud.net/d4efa9tttf055hqqsfl5';
