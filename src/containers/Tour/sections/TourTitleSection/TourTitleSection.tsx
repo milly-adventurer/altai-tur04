@@ -46,7 +46,7 @@ const TourTitleSection = (props: TourTitleSectionProps) => {
 							{title}
 						</h1>
 						<p className={css.description}>{description}</p>
-						<p className={css.description}>Скидка 20% при раннем бронировании до 1 апреля. На ВСЕ туры!</p>
+						<p className={css.description}>Скидка 10% до конца мая. На ВСЕ туры!</p>
 						<div className={css.buttonsWrapper}>
 							<Button
 								style={ButtonStyle.BRAND}

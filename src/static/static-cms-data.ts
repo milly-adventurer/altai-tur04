@@ -17749,7 +17749,7 @@ export const allTours = [
 				"dates": [
 					{
 						"available_places": 14,
-						"date": "11 июня - 18 июня",
+						"date": "11 июня - 17 июня",
 						"metadata": {
 							"tags": []
 						},
@@ -17785,7 +17785,7 @@ export const allTours = [
 					},
 					{
 						"available_places": 14,
-						"date": "25 июня - 2 июля",
+						"date": "25 июня - 1 июля",
 						"metadata": {
 							"tags": []
 						},
@@ -17821,7 +17821,7 @@ export const allTours = [
 					},
 					{
 						"available_places": 14,
-						"date": "9 июля - 16 июля",
+						"date": "9 июля - 15 июля",
 						"metadata": {
 							"tags": []
 						},
@@ -17857,7 +17857,7 @@ export const allTours = [
 					},
 					{
 						"available_places": 14,
-						"date": "23 июля - 30 июля",
+						"date": "23 июля - 29 июля",
 						"metadata": {
 							"tags": []
 						},
@@ -17893,7 +17893,7 @@ export const allTours = [
 					},
 					{
 						"available_places": 14,
-						"date": "6 августа - 13 августа",
+						"date": "6 августа - 12 августа",
 						"metadata": {
 							"tags": []
 						},
@@ -17929,7 +17929,7 @@ export const allTours = [
 					},
 					{
 						"available_places": 14,
-						"date": "20 августа - 27 августа",
+						"date": "20 августа - 26 августа",
 						"metadata": {
 							"tags": []
 						},
@@ -17965,7 +17965,7 @@ export const allTours = [
 					},
 					{
 						"available_places": 14,
-						"date": "3 сентября - 10 сентября",
+						"date": "3 сентября - 9 сентября",
 						"metadata": {
 							"tags": []
 						},
@@ -18001,7 +18001,7 @@ export const allTours = [
 					},
 					{
 						"available_places": 14,
-						"date": "1 октября - 8 октября",
+						"date": "1 октября - 7 октября",
 						"metadata": {
 							"tags": []
 						},
@@ -34381,7 +34381,7 @@ export const allTours = [
 					},
 					{
 						"available_places": 14,
-						"date": "24 июня - 1 июля",
+						"date": "24 июня - 30 июня",
 						"metadata": {
 							"tags": []
 						},
@@ -34417,7 +34417,7 @@ export const allTours = [
 					},
 					{
 						"available_places": 14,
-						"date": "8 июля - 15 июля",
+						"date": "8 июля - 14 июля",
 						"metadata": {
 							"tags": []
 						},
@@ -34453,7 +34453,7 @@ export const allTours = [
 					},
 					{
 						"available_places": 14,
-						"date": "22 июля - 29 июля",
+						"date": "22 июля - 28 июля",
 						"metadata": {
 							"tags": []
 						},
@@ -34489,7 +34489,7 @@ export const allTours = [
 					},
 					{
 						"available_places": 14,
-						"date": "5 августа - 12 августа",
+						"date": "5 августа - 11 августа",
 						"metadata": {
 							"tags": []
 						},
@@ -34525,7 +34525,7 @@ export const allTours = [
 					},
 					{
 						"available_places": 14,
-						"date": "19 августа - 26 августа",
+						"date": "19 августа - 25 августа",
 						"metadata": {
 							"tags": []
 						},
@@ -34561,7 +34561,7 @@ export const allTours = [
 					},
 					{
 						"available_places": 14,
-						"date": "2 сентября - 9 сентября",
+						"date": "2 сентября - 8 сентября",
 						"metadata": {
 							"tags": []
 						},
