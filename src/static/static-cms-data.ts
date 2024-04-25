@@ -17745,7 +17745,7 @@ export const allTours = [
 				}
 			},
 			{
-				"title": "Даты туров 2023",
+				"title": "Даты туров 2024",
 				"dates": [
 					{
 						"available_places": 14,
