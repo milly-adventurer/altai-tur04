@@ -1603,85 +1603,6 @@ export const homePage = {
 			"title": "Какие путешествия нас ждут?",
 			"tours": [
 				{
-					"id": "Магия весеннего Алтая",
-					"title": "\"МАГИЯ ВЕСЕННЕГО АЛТАЯ\"            Апрель-май.             Всё включено!            ",
-					"description": "Чемальский район - Остров Патмос - Ороктойский мост - Еладинские пороги - Урочище Че-Чкыш - Чуйский тракт",
-					"type": "tour",
-					"background": {
-						"title": "IMG-2922!",
-						"description": "",
-						"file": {
-							"url": "//images.ctfassets.net/1vay05tm7yg4/5Ia2t2Q6im8bGk8lrQqzR/aeb6ed10ae0487280cfdfa5c45c1fbe3/spring_cover.jpg",
-							"details": {
-								"size": 1415482,
-								"image": {
-									"width": 1340,
-									"height": 1080
-								}
-							},
-							"fileName": "______.png",
-							"contentType": "image/jpeg"
-						},
-						"metadata": {
-							"tags": []
-						},
-						"sys": {
-							"space": {
-								"sys": {
-									"type": "Link",
-									"linkType": "Space",
-									"id": "bowp6b58zrrn"
-								}
-							},
-							"id": "24K4bWDCU3zBjhocDP7Ckg",
-							"type": "Asset",
-							"createdAt": "2023-03-13T04:07:16.766Z",
-							"updatedAt": "2023-03-13T04:07:16.766Z",
-							"environment": {
-								"sys": {
-									"id": "master",
-									"type": "Link",
-									"linkType": "Environment"
-								}
-							},
-							"revision": 1,
-							"locale": "ru-RU"
-						}
-					},
-					"metadata": {
-						"tags": []
-					},
-					"sys": {
-						"space": {
-							"sys": {
-								"type": "Link",
-								"linkType": "Space",
-								"id": "bowp6b58zrrn"
-							}
-						},
-						"id": "3oBFwK2jZUEMs2o9w3zmD1",
-						"type": "Entry",
-						"createdAt": "2023-02-03T14:16:24.607Z",
-						"updatedAt": "2023-04-21T12:33:56.894Z",
-						"environment": {
-							"sys": {
-								"id": "master",
-								"type": "Link",
-								"linkType": "Environment"
-							}
-						},
-						"revision": 28,
-						"contentType": {
-							"sys": {
-								"type": "Link",
-								"linkType": "ContentType",
-								"id": "tour_card"
-							}
-						},
-						"locale": "ru-RU"
-					}
-				},
-				{
 					"id": "Классика",
 					"title": "\"Гармония Горного Алтая\"         05.06 - 10.06 и еще 9 дат.       Всё включено!",
 					"description": "Чемальский район - Чуйский тракт - Перевал Кату-Ярык - Алтайский Марс - Чуйская степь и Сайлюгемский природный парк",
@@ -1761,15 +1682,94 @@ export const homePage = {
 					}
 				},
 				{
-					"id": "Телецкое озеро",
-					"title": "\"Телецкое озеро и долина реки Чулышман\"            10.06 - 17.06 и ещё 6 дат.             Всё включено!            ",
-					"description": "Телецкое озеро - «Водопад Эстюба» - Водопады Киште, Корбу, Чоодор - Река Чулышман - Урочище Аккурум - Водопад Куркуре - Долина Чулышман - Гейзерное озеро - Чуйский тракт",
+					"id": "Кругосветка",
+					"title": "\"Кругосветное путешествие по Алтаю\"        11.06 - 17.06 и ещё 7 дат.        Всё включено!",
+					"description": "Чемальский район - Уймонская долина - Чуйский тракт - Алтайский Марс - Чуйская степь - Перевал Кату-Ярык - Долина реки Чулышман - Каменные грибы - Телецкое озеро",
+					"type": "tour",
+					"background": {
+						"title": "IMG-1408!",
+						"description": "",
+						"file": {
+							"url": "//images.ctfassets.net/1vay05tm7yg4/da00lbAdnYcKPgbitFIh3/ee111ee50805e8c74f0756833def5778/IMG-1408_.jpg",
+							"details": {
+								"size": 918970,
+								"image": {
+									"width": 1350,
+									"height": 1080
+								}
+							},
+							"fileName": "IMG-1408!.jpg",
+							"contentType": "image/jpeg"
+						},
+						"metadata": {
+							"tags": []
+						},
+						"sys": {
+							"space": {
+								"sys": {
+									"type": "Link",
+									"linkType": "Space",
+									"id": "bowp6b58zrrn"
+								}
+							},
+							"id": "da00lbAdnYcKPgbitFIh3",
+							"type": "Asset",
+							"createdAt": "2023-03-01T02:43:53.249Z",
+							"updatedAt": "2023-03-01T02:43:53.249Z",
+							"environment": {
+								"sys": {
+									"id": "master",
+									"type": "Link",
+									"linkType": "Environment"
+								}
+							},
+							"revision": 1,
+							"locale": "ru-RU"
+						}
+					},
+					"metadata": {
+						"tags": []
+					},
+					"sys": {
+						"space": {
+							"sys": {
+								"type": "Link",
+								"linkType": "Space",
+								"id": "bowp6b58zrrn"
+							}
+						},
+						"id": "5YuJdRErtSvozGLDlg3BwE",
+						"type": "Entry",
+						"createdAt": "2023-02-23T06:28:20.734Z",
+						"updatedAt": "2023-03-22T15:39:24.464Z",
+						"environment": {
+							"sys": {
+								"id": "master",
+								"type": "Link",
+								"linkType": "Environment"
+							}
+						},
+						"revision": 11,
+						"contentType": {
+							"sys": {
+								"type": "Link",
+								"linkType": "ContentType",
+								"id": "tour_card"
+							}
+						},
+						"locale": "ru-RU"
+					}
+				},
+				{
+					"id": "Магия весеннего Алтая",
+					"title": "\"МАГИЯ ВЕСЕННЕГО АЛТАЯ\"            Апрель-май.             Всё включено!            ",
+					"description": "Чемальский район - Остров Патмос - Ороктойский мост - Еладинские пороги - Урочище Че-Чкыш - Чуйский тракт",
 					"type": "tour",
 					"background": {
 						"title": "IMG-2922!",
 						"description": "",
 						"file": {
-							"url": "//images.ctfassets.net/1vay05tm7yg4/J4qDuQhnBhZaw6WCiubGV/1a66a997a7f82216aad091c915a6b182/______________.jpg",
+							"url": "//images.ctfassets.net/1vay05tm7yg4/5Ia2t2Q6im8bGk8lrQqzR/aeb6ed10ae0487280cfdfa5c45c1fbe3/spring_cover.jpg",
 							"details": {
 								"size": 1415482,
 								"image": {
@@ -1840,23 +1840,23 @@ export const homePage = {
 					}
 				},
 				{
-					"id": "Кругосветка",
-					"title": "\"Кругосветное путешествие по Алтаю\"        11.06 - 17.06 и ещё 7 дат.        Всё включено!",
-					"description": "Чемальский район - Уймонская долина - Чуйский тракт - Алтайский Марс - Чуйская степь - Перевал Кату-Ярык - Долина реки Чулышман - Каменные грибы - Телецкое озеро",
+					"id": "Телецкое озеро",
+					"title": "\"Телецкое озеро и долина реки Чулышман\"            10.06 - 17.06 и ещё 6 дат.             Всё включено!            ",
+					"description": "Телецкое озеро - «Водопад Эстюба» - Водопады Киште, Корбу, Чоодор - Река Чулышман - Урочище Аккурум - Водопад Куркуре - Долина Чулышман - Гейзерное озеро - Чуйский тракт",
 					"type": "tour",
 					"background": {
-						"title": "IMG-1408!",
+						"title": "IMG-2922!",
 						"description": "",
 						"file": {
-							"url": "//images.ctfassets.net/1vay05tm7yg4/da00lbAdnYcKPgbitFIh3/ee111ee50805e8c74f0756833def5778/IMG-1408_.jpg",
+							"url": "//images.ctfassets.net/1vay05tm7yg4/J4qDuQhnBhZaw6WCiubGV/1a66a997a7f82216aad091c915a6b182/______________.jpg",
 							"details": {
-								"size": 918970,
+								"size": 1415482,
 								"image": {
-									"width": 1350,
+									"width": 1340,
 									"height": 1080
 								}
 							},
-							"fileName": "IMG-1408!.jpg",
+							"fileName": "______.png",
 							"contentType": "image/jpeg"
 						},
 						"metadata": {
@@ -1870,10 +1870,10 @@ export const homePage = {
 									"id": "bowp6b58zrrn"
 								}
 							},
-							"id": "da00lbAdnYcKPgbitFIh3",
+							"id": "24K4bWDCU3zBjhocDP7Ckg",
 							"type": "Asset",
-							"createdAt": "2023-03-01T02:43:53.249Z",
-							"updatedAt": "2023-03-01T02:43:53.249Z",
+							"createdAt": "2023-03-13T04:07:16.766Z",
+							"updatedAt": "2023-03-13T04:07:16.766Z",
 							"environment": {
 								"sys": {
 									"id": "master",
@@ -1896,10 +1896,10 @@ export const homePage = {
 								"id": "bowp6b58zrrn"
 							}
 						},
-						"id": "5YuJdRErtSvozGLDlg3BwE",
+						"id": "3oBFwK2jZUEMs2o9w3zmD1",
 						"type": "Entry",
-						"createdAt": "2023-02-23T06:28:20.734Z",
-						"updatedAt": "2023-03-22T15:39:24.464Z",
+						"createdAt": "2023-02-03T14:16:24.607Z",
+						"updatedAt": "2023-04-21T12:33:56.894Z",
 						"environment": {
 							"sys": {
 								"id": "master",
@@ -1907,7 +1907,7 @@ export const homePage = {
 								"linkType": "Environment"
 							}
 						},
-						"revision": 11,
+						"revision": 28,
 						"contentType": {
 							"sys": {
 								"type": "Link",

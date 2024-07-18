@@ -37,7 +37,7 @@ const UpcomingToursSection = (props: UpcomingToursProps) => {
 						<div className={css.tabTitle}>
 							{tabTypeToName[tabType]}
 							<div className={css.tabProposal}>
-								<span className={css.tabAccent}>Скидка 10%</span> до конца мая. На <span className={css.tabAccent}>ВСЕ</span> туры!
+								<span className={css.tabAccent}>Скидка 20%</span> до конца июля. На <span className={css.tabAccent}>ВСЕ</span> туры!
 							</div>
 						</div>
 						<div className={css.toursContainer}>
