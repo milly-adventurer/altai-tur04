@@ -7638,42 +7638,6 @@ export const allTours = [
 				"dates": [
 					{
 						"available_places": 14,
-						"date": "14 августа - 19 августа",
-						"metadata": {
-							"tags": []
-						},
-						"sys": {
-							"space": {
-								"sys": {
-									"type": "Link",
-									"linkType": "Space",
-									"id": "bowp6b58zrrn"
-								}
-							},
-							"id": "7tNrfRiqEdt7JrLGAhMeIn",
-							"type": "Entry",
-							"createdAt": "2023-02-23T13:33:01.817Z",
-							"updatedAt": "2023-02-23T13:33:01.817Z",
-							"environment": {
-								"sys": {
-									"id": "master",
-									"type": "Link",
-									"linkType": "Environment"
-								}
-							},
-							"revision": 1,
-							"contentType": {
-								"sys": {
-									"type": "Link",
-									"linkType": "ContentType",
-									"id": "tour_date"
-								}
-							},
-							"locale": "ru-RU"
-						}
-					},
-					{
-						"available_places": 14,
 						"date": "21 августа - 26 августа",
 						"metadata": {
 							"tags": []
