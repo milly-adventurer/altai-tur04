@@ -46,7 +46,6 @@ const TourTitleSection = (props: TourTitleSectionProps) => {
 							{title}
 						</h1>
 						<p className={css.description}>{description}</p>
-						<p className={css.description}>Скидка 20% до конца июля. На ВСЕ туры!</p>
 						<div className={css.buttonsWrapper}>
 							<Button
 								style={ButtonStyle.BRAND}

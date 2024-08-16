@@ -36,9 +36,6 @@ const UpcomingToursSection = (props: UpcomingToursProps) => {
 					<div className={css.tab} key={tabType}>
 						<div className={css.tabTitle}>
 							{tabTypeToName[tabType]}
-							<div className={css.tabProposal}>
-								<span className={css.tabAccent}>Скидка 20%</span> до конца июля. На <span className={css.tabAccent}>ВСЕ</span> туры!
-							</div>
 						</div>
 						<div className={css.toursContainer}>
 							{tabCards.map((tour) => {
