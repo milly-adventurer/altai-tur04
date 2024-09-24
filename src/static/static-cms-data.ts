@@ -24254,7 +24254,7 @@ export const allTours = [
 										{
 											"data": {},
 											"marks": [],
-											"value": "- Трехразовое питание (завтрак, обед, ужин);",
+											"value": "- Двухразовое питание (завтрак, ужин);",
 											"nodeType": "text"
 										}
 									],
@@ -26987,7 +26987,7 @@ export const allTours = [
 										{
 											"data": {},
 											"marks": [],
-											"value": "- Трехразовое питание (завтрак, обед, ужин);",
+											"value": "- Двухразовое питание (завтрак, ужин);",
 											"nodeType": "text"
 										}
 									],
@@ -31523,7 +31523,7 @@ export const allTours = [
 							"title": "IMG-5808",
 							"description": "",
 							"file": {
-								"url": "//images.ctfassets.net/1vay05tm7yg4/5hVjil25qb5tQZzkKFgpiF/f8272c6558159a2c2412e43a0bed4e69/8ccd2836b8f6dbfd5581f1c967efce9d.jpg",
+								"url": "////drive.google.com/u/0/drive-viewer/AKGpihbxymDOyco6sLRXcj2Jrnf-KkRBunprx3gT631ZgkfekVN9uMlRt8HdfOIStT59M5i297KIqMhV0Wo0TWm3mkIDMGQ-rjx5OZU=s1600-rw-v1",
 								"details": {
 									"size": 2237028,
 									"image": {
