@@ -41,7 +41,7 @@ const AdditionalInfoSection = (props: AdditionalInfoSectionProps) => {
 					<div>
 						<h4 className={css.popupTitle}>{openCard.title}</h4>
 						{openCard.description && <div className={css.popupDescription}>{documentToReactComponents(openCard.description)}</div>}
-						{openCardId === 1 && tourId !== 'Новый Год на Алтае' &&
+						{openCardId === 1 && tourId !== 'Новый Год на Алтае' && tourId !== 'Новый Год на Алтае' &&
 							<div className={css.priceBlock}>
 								<Image src={wallet} alt={"Кошелек"} />
 								<div className={css.pricesWrapper}>
