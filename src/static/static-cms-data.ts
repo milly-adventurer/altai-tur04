@@ -32613,8 +32613,6 @@ export const allTours = [
 						}
 					]
 				},
-				"images": [
-				],
 				"metadata": {
 					"tags": []
 				},
@@ -35432,8 +35430,6 @@ export const allTours = [
 						}
 					]
 				},
-				"images": [
-				],
 				"metadata": {
 					"tags": []
 				},
@@ -35470,6 +35466,352 @@ export const allTours = [
 			{
 				"title": "Дополнительная информация",
 				"cards": [
+					{
+						"title": "Какая стоимость?",
+						"description": {
+							"nodeType": "document",
+							"data": {},
+							"content": [
+								{
+									"nodeType": "paragraph",
+									"data": {},
+									"content": [
+										{
+											"nodeType": "text",
+											"value": "В номерах ХАЙ-ТЕК компанией 6 человек – 70 000 руб./турист (65 000 руб./ребенок)",
+											"marks": [],
+											"data": {}
+										}
+									]
+								},
+								{
+									"nodeType": "paragraph",
+									"data": {},
+									"content": [
+										{
+											"nodeType": "text",
+											"value": "В категории СТ – 75 000 руб/турист (70 000 руб./ребенок)",
+											"marks": [],
+											"data": {}
+										}
+									]
+								},
+								{
+									"nodeType": "paragraph",
+									"data": {},
+									"content": [
+										{
+											"nodeType": "text",
+											"value": "В категории СД – 70 000 руб/турист (65 000 руб./ребенок)",
+											"marks": [],
+											"data": {}
+										}
+									]
+								},
+								{
+									"nodeType": "paragraph",
+									"data": {},
+									"content": [
+										{
+											"nodeType": "text",
+											"value": "",
+											"marks": [],
+											"data": {}
+										}
+									]
+								}
+							]
+						},
+						"background": {
+							"title": "IMG-4415!",
+							"description": "",
+							"file": {
+								"url": "//images.ctfassets.net/1vay05tm7yg4/3eIl7xHf6hetE2Il2MANQf/5a76a01fcbfc1d2edebcddcdb0970054/______.png",
+								"details": {
+									"size": 978648,
+									"image": {
+										"width": 1350,
+										"height": 1080
+									}
+								},
+								"fileName": "IMG-4415!.jpg",
+								"contentType": "image/jpeg"
+							},
+							"metadata": {
+								"tags": []
+							},
+							"sys": {
+								"space": {
+									"sys": {
+										"type": "Link",
+										"linkType": "Space",
+										"id": "bowp6b58zrrn"
+									}
+								},
+								"id": "4jO9zPRN0MctJPSoglOiL1",
+								"type": "Asset",
+								"createdAt": "2023-03-01T02:37:33.615Z",
+								"updatedAt": "2023-03-01T02:37:33.615Z",
+								"environment": {
+									"sys": {
+										"id": "master",
+										"type": "Link",
+										"linkType": "Environment"
+									}
+								},
+								"revision": 1,
+								"locale": "ru-RU"
+							}
+						},
+						"cta": {
+							"text": "Посчитать стоимость с перелетом",
+							"type": "count",
+							"style": "brand",
+							"metadata": {
+								"tags": []
+							},
+							"sys": {
+								"space": {
+									"sys": {
+										"type": "Link",
+										"linkType": "Space",
+										"id": "bowp6b58zrrn"
+									}
+								},
+								"id": "6s17FFQc2hj4LP1H4KfCEb",
+								"type": "Entry",
+								"createdAt": "2023-03-15T19:58:46.973Z",
+								"updatedAt": "2023-03-15T19:58:46.973Z",
+								"environment": {
+									"sys": {
+										"id": "master",
+										"type": "Link",
+										"linkType": "Environment"
+									}
+								},
+								"revision": 1,
+								"contentType": {
+									"sys": {
+										"type": "Link",
+										"linkType": "ContentType",
+										"id": "button"
+									}
+								},
+								"locale": "ru-RU"
+							}
+						},
+						"metadata": {
+							"tags": []
+						},
+						"sys": {
+							"space": {
+								"sys": {
+									"type": "Link",
+									"linkType": "Space",
+									"id": "bowp6b58zrrn"
+								}
+							},
+							"id": "76Vyi15GISKLtKhR9O6m6v",
+							"type": "Entry",
+							"createdAt": "2023-02-14T21:04:31.554Z",
+							"updatedAt": "2023-04-02T21:15:17.473Z",
+							"environment": {
+								"sys": {
+									"id": "master",
+									"type": "Link",
+									"linkType": "Environment"
+								}
+							},
+							"revision": 11,
+							"contentType": {
+								"sys": {
+									"type": "Link",
+									"linkType": "ContentType",
+									"id": "additional_tour_info_card"
+								}
+							},
+							"locale": "ru-RU"
+						}
+					},
+					{
+						"title": "Что включено?",
+						"description": {
+							"data": {},
+							"content": [
+								{
+									"data": {},
+									"content": [
+										{
+											"data": {},
+											"marks": [],
+											"value": "- Встреча в аэропорту Горно-Алтайска/Барнаула.",
+											"nodeType": "text"
+										}
+									],
+									"nodeType": "paragraph"
+								},
+								{
+									"data": {},
+									"content": [
+										{
+											"data": {},
+											"marks": [],
+											"value": "- Трансфер на комфортабельном микроавтобусе по всему маршруту.",
+											"nodeType": "text"
+										}
+									],
+									"nodeType": "paragraph"
+								},
+								{
+									"data": {},
+									"content": [
+										{
+											"data": {},
+											"marks": [],
+											"value": "- Проживание на уютной турбазе с удобствами (размещение 2-4 человека в номере).",
+											"nodeType": "text"
+										}
+									],
+									"nodeType": "paragraph"
+								},
+								{
+									"data": {},
+									"content": [
+										{
+											"data": {},
+											"marks": [],
+											"value": "- Двухразовое питание (завтрак,ужин)",
+											"nodeType": "text"
+										}
+									],
+									"nodeType": "paragraph"
+								},
+								{
+									"data": {},
+									"content": [
+										{
+											"data": {},
+											"marks": [],
+											"value": "- Такси в аэропорт.",
+											"nodeType": "text"
+										}
+									],
+									"nodeType": "paragraph"
+								},
+							],
+							"nodeType": "document"
+						},
+						"background": {
+							"title": "Depositphotos 235850258 xl-2015!",
+							"description": "",
+							"file": {
+								"url": "//images.ctfassets.net/1vay05tm7yg4/2nVgWrX4tbmZgwCU1iMQfB/4e26f6115a459d95f29d3cdb4e8c448e/IMG-5065_.jpg",
+								"details": {
+									"size": 1764167,
+									"image": {
+										"width": 1350,
+										"height": 1080
+									}
+								},
+								"fileName": "Depositphotos_235850258_xl-2015!.jpg",
+								"contentType": "image/jpeg"
+							},
+							"metadata": {
+								"tags": []
+							},
+							"sys": {
+								"space": {
+									"sys": {
+										"type": "Link",
+										"linkType": "Space",
+										"id": "bowp6b58zrrn"
+									}
+								},
+								"id": "fRAYyqfZ3k79gsRvY7Hwt",
+								"type": "Asset",
+								"createdAt": "2023-03-01T02:36:39.479Z",
+								"updatedAt": "2023-03-01T02:36:39.479Z",
+								"environment": {
+									"sys": {
+										"id": "master",
+										"type": "Link",
+										"linkType": "Environment"
+									}
+								},
+								"revision": 1,
+								"locale": "ru-RU"
+							}
+						},
+						"cta": {
+							"text": "Получить программу тура",
+							"type": "program",
+							"style": "brand",
+							"metadata": {
+								"tags": []
+							},
+							"sys": {
+								"space": {
+									"sys": {
+										"type": "Link",
+										"linkType": "Space",
+										"id": "bowp6b58zrrn"
+									}
+								},
+								"id": "2uV8W9b6hwRBrKs3er8LhA",
+								"type": "Entry",
+								"createdAt": "2023-03-15T20:07:47.295Z",
+								"updatedAt": "2023-03-15T20:07:47.295Z",
+								"environment": {
+									"sys": {
+										"id": "master",
+										"type": "Link",
+										"linkType": "Environment"
+									}
+								},
+								"revision": 1,
+								"contentType": {
+									"sys": {
+										"type": "Link",
+										"linkType": "ContentType",
+										"id": "button"
+									}
+								},
+								"locale": "ru-RU"
+							}
+						},
+						"metadata": {
+							"tags": []
+						},
+						"sys": {
+							"space": {
+								"sys": {
+									"type": "Link",
+									"linkType": "Space",
+									"id": "bowp6b58zrrn"
+								}
+							},
+							"id": "62KAozOlHUZz5Xlw1f7wYq",
+							"type": "Entry",
+							"createdAt": "2023-02-14T21:04:47.947Z",
+							"updatedAt": "2023-03-15T20:12:30.413Z",
+							"environment": {
+								"sys": {
+									"id": "master",
+									"type": "Link",
+									"linkType": "Environment"
+								}
+							},
+							"revision": 7,
+							"contentType": {
+								"sys": {
+									"type": "Link",
+									"linkType": "ContentType",
+									"id": "additional_tour_info_card"
+								}
+							},
+							"locale": "ru-RU"
+						}
+					},
 					{
 						"title": "Какие расходы?",
 						"description": {
