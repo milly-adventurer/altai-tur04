@@ -35970,16 +35970,16 @@ export const allTours = [
 						"title": "",
 						"description": "",
 						"file": {
-							"url": "//images.ctfassets.net/1vay05tm7yg4/4XYsjollIKXmEhx4KRC3hK/07279eb586507f63a66dd416e81d012c/_____4.png",
+							"url": "",
 							"details": {
-								"size": 1164664,
+								"size": 0,
 								"image": {
 									"width": 0,
 									"height": 0
 								}
 							},
-							"fileName": "IMG-9972.jpg",
-							"contentType": "image/jpeg"
+							"fileName": "",
+							"contentType": ""
 						},
 						"metadata": {
 							"tags": []
