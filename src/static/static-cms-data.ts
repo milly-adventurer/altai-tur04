@@ -34763,7 +34763,7 @@ export const allTours = [
 					"title": "IMG-2922",
 					"description": "",
 					"file": {
-						"url": "https://images.ctfassets.net/1vay05tm7yg4/5TblJ77yTXLifRZ5ywoa1K/1504eee51f18e361d73452e74867aa81/veSLHW6m9G8.jpg",
+						"url": "//images.ctfassets.net/1vay05tm7yg4/5TblJ77yTXLifRZ5ywoa1K/1504eee51f18e361d73452e74867aa81/veSLHW6m9G8.jpg",
 						"details": {
 							"size": 1982269,
 							"image": {
