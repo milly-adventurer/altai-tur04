@@ -32987,7 +32987,7 @@ export const allTours = [
 						"title": "",
 						"description": "",
 						"file": {
-							"url": "//images.ctfassets.net/1vay05tm7yg4/6Xru54u5eHFXAWhKygNAVt/a94ca0efbee9e1d2c678e43b650eebaa/photo_5233617534115242920_y.jpg?h=250",
+							"url": "//images.ctfassets.net/1vay05tm7yg4/6Xru54u5eHFXAWhKygNAVt/a94ca0efbee9e1d2c678e43b650eebaa/photo_5233617534115242920_y.jpg",
 							"details": {
 								"size": 0,
 								"image": {
@@ -36269,7 +36269,7 @@ export const allTours = [
 						"title": "",
 						"description": "",
 						"file": {
-							"url": "//images.ctfassets.net/1vay05tm7yg4/6Xru54u5eHFXAWhKygNAVt/a94ca0efbee9e1d2c678e43b650eebaa/photo_5233617534115242920_y.jpg?h=250",
+							"url": "//images.ctfassets.net/1vay05tm7yg4/6Xru54u5eHFXAWhKygNAVt/a94ca0efbee9e1d2c678e43b650eebaa/photo_5233617534115242920_y.jpg",
 							"details": {
 								"size": 0,
 								"image": {
