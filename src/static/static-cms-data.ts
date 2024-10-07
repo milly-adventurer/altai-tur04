@@ -31400,7 +31400,7 @@ export const allTours = [
 						"title": "",
 						"description": "",
 						"file": {
-							"url": "//images.ctfassets.net/1vay05tm7yg4/5DFU24lPb4goDfQrprrOtW/b11d3d83e13b09c83d334661d473e016/photo_5233617534115242925_y.jpg",
+							"url": "//images.ctfassets.net/1vay05tm7yg4/5z5PeYABDD4NA12iZAZa4d/2445863377dd4ca4eef38bf3076444b5/photo_5233617534115242930_y.jpg",
 							"details": {
 								"size": 0,
 								"image": {
@@ -31564,7 +31564,7 @@ export const allTours = [
 						"title": "",
 						"description": "",
 						"file": {
-							"url": "//images.ctfassets.net/1vay05tm7yg4/5z5PeYABDD4NA12iZAZa4d/2445863377dd4ca4eef38bf3076444b5/photo_5233617534115242930_y.jpg",
+							"url": "//images.ctfassets.net/1vay05tm7yg4/5DFU24lPb4goDfQrprrOtW/b11d3d83e13b09c83d334661d473e016/photo_5233617534115242925_y.jpg",
 							"details": {
 								"size": 0,
 								"image": {
@@ -34682,7 +34682,7 @@ export const allTours = [
 						"title": "",
 						"description": "",
 						"file": {
-							"url": "//images.ctfassets.net/1vay05tm7yg4/5DFU24lPb4goDfQrprrOtW/b11d3d83e13b09c83d334661d473e016/photo_5233617534115242925_y.jpg",
+							"url": "//images.ctfassets.net/1vay05tm7yg4/5z5PeYABDD4NA12iZAZa4d/2445863377dd4ca4eef38bf3076444b5/photo_5233617534115242930_y.jpg",
 							"details": {
 								"size": 0,
 								"image": {
@@ -34846,7 +34846,7 @@ export const allTours = [
 						"title": "",
 						"description": "",
 						"file": {
-							"url": "//images.ctfassets.net/1vay05tm7yg4/5z5PeYABDD4NA12iZAZa4d/2445863377dd4ca4eef38bf3076444b5/photo_5233617534115242930_y.jpg",
+							"url": "//images.ctfassets.net/1vay05tm7yg4/5DFU24lPb4goDfQrprrOtW/b11d3d83e13b09c83d334661d473e016/photo_5233617534115242925_y.jpg",
 							"details": {
 								"size": 0,
 								"image": {
