@@ -8421,119 +8421,6 @@ export const allTours = [
 											"data": {}
 										}
 									]
-								},
-								{
-									"nodeType": "hr",
-									"data": {},
-									"content": []
-								},
-								{
-									"nodeType": "paragraph",
-									"data": {},
-									"content": [
-										{
-											"nodeType": "text",
-											"value": "",
-											"marks": [],
-											"data": {}
-										}
-									]
-								},
-								{
-									"nodeType": "heading-3",
-									"data": {},
-									"content": [
-										{
-											"nodeType": "text",
-											"value": "Программа дня:",
-											"marks": [],
-											"data": {}
-										}
-									]
-								},
-								{
-									"nodeType": "paragraph",
-									"data": {},
-									"content": [
-										{
-											"nodeType": "text",
-											"value": "",
-											"marks": [],
-											"data": {}
-										}
-									]
-								},
-								{
-									"nodeType": "paragraph",
-									"data": {},
-									"content": [
-										{
-											"nodeType": "text",
-											"value": "- Встреча в аэропорту;",
-											"marks": [],
-											"data": {}
-										}
-									]
-								},
-								{
-									"nodeType": "paragraph",
-									"data": {},
-									"content": [
-										{
-											"nodeType": "text",
-											"value": "- Памятник В.Я Шишкову. Прогулка по берегу Катуни;",
-											"marks": [],
-											"data": {}
-										}
-									]
-								},
-								{
-									"nodeType": "paragraph",
-									"data": {},
-									"content": [
-										{
-											"nodeType": "text",
-											"value": "- Скалы \"Зубы Дракона\";",
-											"marks": [],
-											"data": {}
-										}
-									]
-								},
-								{
-									"nodeType": "paragraph",
-									"data": {},
-									"content": [
-										{
-											"nodeType": "text",
-											"value": "- Обед;",
-											"marks": [],
-											"data": {}
-										}
-									]
-								},
-								{
-									"nodeType": "paragraph",
-									"data": {},
-									"content": [
-										{
-											"nodeType": "text",
-											"value": "- Остров Патмос и храм Иоанна Богослова;",
-											"marks": [],
-											"data": {}
-										}
-									]
-								},
-								{
-									"nodeType": "paragraph",
-									"data": {},
-									"content": [
-										{
-											"nodeType": "text",
-											"value": "- Рыбалка на форелевом хозяйстве и ужин на природе.",
-											"marks": [],
-											"data": {}
-										}
-									]
 								}
 							]
 						},
@@ -9957,16 +9844,28 @@ export const allTours = [
 									"data": {},
 									"content": [
 										{
-											"nodeType": "text",
-											"value": "60 000 руб. – из Барнаула",
-											"marks": [],
-											"data": {}
+											"nodeType": "paragraph",
+											"data": {},
+											"content": [
+												{
+													"nodeType": "text",
+													"value": "60 000 руб. – из Барнаула",
+													"marks": [],
+													"data": {}
+												}
+											]
 										},
 										{
-											"nodeType": "text",
-											"value": "50 000 руб. – из Горно-Алтайска",
-											"marks": [],
-											"data": {}
+											"nodeType": "paragraph",
+											"data": {},
+											"content": [
+												{
+													"nodeType": "text",
+													"value": "50 000 руб. – из Горно-Алтайска",
+													"marks": [],
+													"data": {}
+												}
+											]
 										}
 									]
 								}
@@ -17531,7 +17430,7 @@ export const allTours = [
 				"dates": [
 					{
 						"available_places": 14,
-						"date": "11 июля - 18 июля",
+						"date": "11 июня - 18 июня",
 						"metadata": {
 							"tags": []
 						},
@@ -17939,7 +17838,7 @@ export const allTours = [
 									"content": [
 										{
 											"nodeType": "text",
-											"value": "- Посещаем музеей Алтай. История России» с алтайским шаманом Артемом.",
+											"value": "- Посещаем музеей «Алтай. История России» с алтайским шаманом Артемом.",
 											"marks": [],
 											"data": {}
 										}
@@ -18088,7 +17987,7 @@ export const allTours = [
 					},
 					{
 						"title": "День 2 – Очарование Чемальского района",
-						"description_short": "Сегодня мы проедем по самой красивой дороге России - Чуйскому Тракту за дальние перевалы, будем останавливаться на смотровых площадках и в сакральных местах силы",
+						"description_short": "",
 						"description_long": {
 							"nodeType": "document",
 							"data": {},
@@ -18296,7 +18195,7 @@ export const allTours = [
 					},
 					{
 						"title": "День 3 – Приключения на Чуйском тракте",
-						"description_short": "Одновременно побывать и на Марсе, и на Диком Западе - это мечта, которую мы осуществим в нашем путешествии",
+						"description_short": "Сегодня мы проедем по самой красивой дороге России - Чуйскому Тракту за дальние перевалы, будем останавливаться на смотровых площадках и в сакральных местах силы",
 						"description_long": {
 							"nodeType": "document",
 							"data": {},
@@ -18516,7 +18415,7 @@ export const allTours = [
 					},
 					{
 						"title": "День 4 – Марсианские пейзажи Горного Алтая",
-						"description_short": "Встретив первые лучи солнца, мы отправимся в путь по Улаганскому тракту вдоль живописных озёр, тайги и высокогорной тундры к перевалу Кату-Ярык",
+						"description_short": "Одновременно побывать и на Марсе, и на Диком Западе — это мечта, которую мы осуществим в нашем путешествии",
 						"description_long": {
 							"nodeType": "document",
 							"data": {},
@@ -18712,7 +18611,7 @@ export const allTours = [
 					},
 					{
 						"title": "День 5 – Путешествие в Долину реки Чулышман",
-						"description_short": "Сегодня мы побываем в урочище Аккурум, увидим Каменные изваяния, напоминающие гигантские Грибы - поистине фантастическое создание самой природы",
+						"description_short": "",
 						"description_long": {
 							"nodeType": "document",
 							"data": {},
@@ -18908,7 +18807,7 @@ export const allTours = [
 					},
 					{
 						"title": "День 6 – Таинственное Урочище Аккурум и Каменные грибы",
-						"description_short": "",
+						"description_short": "Сегодня мы побываем в урочище Аккурум, увидим Каменные изваяния, напоминающие гигантские Грибы — поистине фантастическое создание самой природы",
 						"description_long": {
 							"nodeType": "document",
 							"data": {},
@@ -19138,7 +19037,7 @@ export const allTours = [
 										{
 											"data": {},
 											"marks": [],
-											"value": " В Артыбаше поднимемся на смотровую площадку на горе Тилан-Туу и полюбуемся видами Телецкого озера с высоты.",
+											"value": "- В Артыбаше поднимемся на смотровую площадку на горе Тилан-Туу и полюбуемся видами Телецкого озера с высоты.",
 											"nodeType": "text"
 										}
 									],
@@ -19884,17 +19783,29 @@ export const allTours = [
 									"data": {},
 									"content": [
 										{
-											"nodeType": "text",
-											"value": "85 000 руб. – из Барнаула",
-											"marks": [],
-											"data": {}
+											"data": {},
+											"content": [
+												{
+													"data": {},
+													"marks": [],
+													"value": "85 000 руб. – из Барнаула",
+													"nodeType": "text"
+												}
+											],
+											"nodeType": "paragraph"
 										},
 										{
-											"nodeType": "text",
-											"value": "75 000 руб. – из Горно-Алтайска",
-											"marks": [],
-											"data": {}
-										}
+											"data": {},
+											"content": [
+												{
+													"data": {},
+													"marks": [],
+													"value": "75 000 руб. – из Горно-Алтайска",
+													"nodeType": "text"
+												}
+											],
+											"nodeType": "paragraph"
+										},
 									]
 								}
 							]
